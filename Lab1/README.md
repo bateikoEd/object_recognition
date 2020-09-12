@@ -15,4 +15,7 @@
 
 ### Edited Video
 ![Watch the video](https://github.com/bateikoEd/object_recognition/blob/master/Lab1/lab2/files/output_edited.avi)
+<<<<<<< HEAD
 
+=======
+>>>>>>> d85b62c9a5e247677d0363b85ba59edb1aa063ff
