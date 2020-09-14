@@ -1,7 +1,7 @@
 # Crete and edit an image and a video
 ## Info
-- [code for an image](/lab2/image_main.py) 
-- [code for a video](/lab2/main.py) 
+- [code for an image](lab2/image_main.py) 
+- [code for a video](lab2/main.py) 
 - [resulting files](lab2/files) 
 
 ### Created Image
