@@ -5,17 +5,15 @@
 - [resulting files](lab2/files) 
 
 ### Created Image
-![picture](https://github.com/bateikoEd/object_recognition/blob/master/Lab1/lab2/files/webcam.png)
+![picture](lab2/webcam.png)
 
 ### Edited Image
-![picture](https://github.com/bateikoEd/object_recognition/blob/master/Lab1/lab2/files/webcam_result.png)
+![picture](lab2/webcam_result.png)
 
 ### Created Video
 ![Watch the video](https://github.com/bateikoEd/object_recognition/blob/master/Lab1/lab2/files/output.avi)
 
 ### Edited Video
 ![Watch the video](https://github.com/bateikoEd/object_recognition/blob/master/Lab1/lab2/files/output_edited.avi)
-<<<<<<< HEAD
 
-=======
->>>>>>> d85b62c9a5e247677d0363b85ba59edb1aa063ff
+
