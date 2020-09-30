@@ -1,0 +1,38 @@
+{
+       "train_2.jpg": {
+              "ratio": 0.75,
+              "pixels": 6016000,
+              "thread_time": 4.348215057000004,
+              "matches_good_ratio": 0.004919723492028097,
+              "localization_error_l1_mean": 12.289054500470527,
+              "localization_error_l2_mean": 302.2123734754128,
+              "loc_error_norm_of_homography_matrix": 2300.6299602905597
+       },
+       "train_3.jpg": {
+              "ratio": 0.75,
+              "pixels": 1689600,
+              "thread_time": 1.1063516820000103,
+              "matches_good_ratio": 0.009992752815252536,
+              "localization_error_l1_mean": 14.039985614844237,
+              "localization_error_l2_mean": 418.4186197103274,
+              "loc_error_norm_of_homography_matrix": 710.8939954280316
+       },
+       "train_4.jpg": {
+              "ratio": 0.75,
+              "pixels": 298820,
+              "thread_time": 0.24630567000001236,
+              "matches_good_ratio": 0.003958077823614673,
+              "localization_error_l1_mean": 15.267432412517444,
+              "localization_error_l2_mean": 454.16609261278154,
+              "loc_error_norm_of_homography_matrix": 24.841221620378914
+       },
+       "train_5.jpg": {
+              "ratio": 0.75,
+              "pixels": 471447,
+              "thread_time": 0.36679137700001263,
+              "matches_good_ratio": 0.004069572973575649,
+              "localization_error_l1_mean": 15.324373105308897,
+              "localization_error_l2_mean": 449.8809855333928,
+              "loc_error_norm_of_homography_matrix": 586.7368097184401
+       }
+}
