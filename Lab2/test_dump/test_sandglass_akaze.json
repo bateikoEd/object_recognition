@@ -1,0 +1,114 @@
+{
+    "sandglass_81.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.5473299360000112,
+        "matches_good_ratio": 0.03881987577639751,
+        "localization_error_l1_mean": 10.675465838509316,
+        "localization_error_l2_mean": 232.43944099378882
+    },
+    "sandglass_83.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.5333178440000097,
+        "matches_good_ratio": 0.024844720496894408,
+        "localization_error_l1_mean": 8.621118012422361,
+        "localization_error_l2_mean": 138.2049689440994
+    },
+    "sandglass_84.jpg": {
+        "ratio": 0.75,
+        "pixels": 15996752,
+        "thread_time": 1.5132976140000096,
+        "matches_good_ratio": 0.012422360248447204,
+        "localization_error_l1_mean": 6.172360248447205,
+        "localization_error_l2_mean": 70.23757763975155
+    },
+    "sandglass_88.jpg": {
+        "ratio": 0.75,
+        "pixels": 921600,
+        "thread_time": 0.1099530120000054,
+        "matches_good_ratio": 0.020186335403726708,
+        "localization_error_l1_mean": 9.920807453416149,
+        "localization_error_l2_mean": 186.52329192546583
+    },
+    "sandglass_89.jpg": {
+        "ratio": 0.75,
+        "pixels": 921600,
+        "thread_time": 0.11726074499998163,
+        "matches_good_ratio": 0.020186335403726708,
+        "localization_error_l1_mean": 7.722049689440993,
+        "localization_error_l2_mean": 115.00465838509317
+    },
+    "sandglass_90.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.549649240000008,
+        "matches_good_ratio": 0.029503105590062112,
+        "localization_error_l1_mean": 11.857142857142858,
+        "localization_error_l2_mean": 271.5652173913044
+    },
+    "sandglass_91.jpg": {
+        "ratio": 0.75,
+        "pixels": 15996752,
+        "thread_time": 1.566378138999994,
+        "matches_good_ratio": 0.023291925465838508,
+        "localization_error_l1_mean": 12.104037267080745,
+        "localization_error_l2_mean": 254.91459627329192
+    },
+    "sandglass_92.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.5239321839999889,
+        "matches_good_ratio": 0.017080745341614908,
+        "localization_error_l1_mean": 6.416149068322981,
+        "localization_error_l2_mean": 78.21428571428571
+    },
+    "sandglass_93.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.572114321000015,
+        "matches_good_ratio": 0.007763975155279503,
+        "localization_error_l1_mean": 6.327639751552795,
+        "localization_error_l2_mean": 72.40217391304348
+    },
+    "sandglass_94.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.5230007680000028,
+        "matches_good_ratio": 0.049689440993788817,
+        "localization_error_l1_mean": 9.624223602484472,
+        "localization_error_l2_mean": 200.24223602484471
+    },
+    "sandglass_95.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.4951465590000055,
+        "matches_good_ratio": 0.013975155279503106,
+        "localization_error_l1_mean": 8.543478260869565,
+        "localization_error_l2_mean": 138.59316770186336
+    },
+    "sandglass_96.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.5670815860000005,
+        "matches_good_ratio": 0.031055900621118012,
+        "localization_error_l1_mean": 8.06832298136646,
+        "localization_error_l2_mean": 125.44099378881988
+    },
+    "sandglass_97.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.562449311000023,
+        "matches_good_ratio": 0.023291925465838508,
+        "localization_error_l1_mean": 8.254658385093167,
+        "localization_error_l2_mean": 126.6304347826087
+    },
+    "sandglass_99.jpg": {
+        "ratio": 0.75,
+        "pixels": 16064064,
+        "thread_time": 1.6024178529999915,
+        "matches_good_ratio": 0.043478260869565216,
+        "localization_error_l1_mean": 7.444099378881988,
+        "localization_error_l2_mean": 116.9223602484472
+    }
+}
