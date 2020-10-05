@@ -1,5 +1,5 @@
 # Lab 2
-* [Google doc with conclusion](https://docs.google.com/document/d/1BdjZOhq_54r8v9y8nTQCq_4Eu_qS2WIrTu09j6KQVPA/edit)
+* [Google doc with conclusion](https://drive.google.com/file/d/1IRb5eWJxhg0RBhjP356dzCA3o0ILLW47/view)
 * [Test dumps](https://github.com/bateikoEd/object_recognition/tree/master/Lab2/test_dump)
 * [Sandglass train dump](https://github.com/bateikoEd/object_recognition/tree/master/Lab2/sandglass_train_dump)
 * [Lintroller train dump](https://github.com/bateikoEd/object_recognition/tree/master/Lab2/lintroller_train_dump)
