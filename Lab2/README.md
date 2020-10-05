@@ -4,6 +4,7 @@
 * [Sandglass train dump](https://github.com/bateikoEd/object_recognition/tree/master/Lab2/sandglass_train_dump)
 * [Lintroller train dump](https://github.com/bateikoEd/object_recognition/tree/master/Lab2/lintroller_train_dump)
 * [Notebook with code](https://github.com/bateikoEd/object_recognition/blob/master/Lab2/train_descriptors.ipynb)
+* [Archives with training set](https://github.com/bateikoEd/object_recognition/tree/master/Lab2/archives)
 
 # Sources
 * [Article](http://www.diva-portal.org/smash/get/diva2:927480/FULLTEXT01.pdf)
