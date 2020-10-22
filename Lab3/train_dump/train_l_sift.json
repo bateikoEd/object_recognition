@@ -1,0 +1,650 @@
+{
+    "lintroller_1.jpg": {
+        "ratio": 0.75,
+        "pixels": 21418752,
+        "thread_time": 3.399627276999979,
+        "matches_good_ratio": 1.0,
+        "localization_error_l1_mean": 269.57840430905543,
+        "localization_error_l2_mean": 78250.99984366128
+    },
+    "lintroller_11.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.027518662999966637,
+        "matches_good_ratio": 0.021810250817884406,
+        "localization_error_l1_mean": 20.41917466857311,
+        "localization_error_l2_mean": 812.9057805087908
+    },
+    "lintroller_12.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.02663434400000142,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 19.118886234196086,
+        "localization_error_l2_mean": 686.0757817666786
+    },
+    "lintroller_13.jpg": {
+        "ratio": 0.75,
+        "pixels": 62458,
+        "thread_time": 0.022912207999979728,
+        "matches_good_ratio": 0.003271537622682661,
+        "localization_error_l1_mean": 17.50192064391358,
+        "localization_error_l2_mean": 569.0753924972042
+    },
+    "lintroller_14.jpg": {
+        "ratio": 0.75,
+        "pixels": 53400,
+        "thread_time": 0.02043471199999658,
+        "matches_good_ratio": 0.030534351145038167,
+        "localization_error_l1_mean": 24.639129988109794,
+        "localization_error_l2_mean": 1111.4771712565914
+    },
+    "lintroller_15.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.025647096000000147,
+        "matches_good_ratio": 0.025081788440567066,
+        "localization_error_l1_mean": 21.280361046577877,
+        "localization_error_l2_mean": 846.5274254900932
+    },
+    "lintroller_17.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.02406034900002396,
+        "matches_good_ratio": 0.022900763358778626,
+        "localization_error_l1_mean": 20.774037967461407,
+        "localization_error_l2_mean": 870.2314251372272
+    },
+    "lintroller_170.jpg": {
+        "ratio": 0.75,
+        "pixels": 2477568,
+        "thread_time": 0.4120024090000243,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 13.782353570703071,
+        "localization_error_l2_mean": 374.730994174062
+    },
+    "lintroller_171.jpg": {
+        "ratio": 0.75,
+        "pixels": 60945,
+        "thread_time": 0.02393821499998694,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 19.5278870843619,
+        "localization_error_l2_mean": 693.8316320135107
+    },
+    "lintroller_172.jpg": {
+        "ratio": 0.75,
+        "pixels": 583647,
+        "thread_time": 0.09139000800001895,
+        "matches_good_ratio": 0.03162486368593239,
+        "localization_error_l1_mean": 23.624643269646,
+        "localization_error_l2_mean": 1109.5366106813246
+    },
+    "lintroller_173.jpg": {
+        "ratio": 0.75,
+        "pixels": 1024227,
+        "thread_time": 0.16615533099997037,
+        "matches_good_ratio": 0.010905125408942203,
+        "localization_error_l1_mean": 15.137369116364024,
+        "localization_error_l2_mean": 441.31572729885573
+    },
+    "lintroller_174.jpg": {
+        "ratio": 0.75,
+        "pixels": 715920,
+        "thread_time": 0.12412505800000417,
+        "matches_good_ratio": 0.014176663031624863,
+        "localization_error_l1_mean": 16.558434427109514,
+        "localization_error_l2_mean": 533.4087621315695
+    },
+    "lintroller_175.jpg": {
+        "ratio": 0.75,
+        "pixels": 529408,
+        "thread_time": 0.10126134099999717,
+        "matches_good_ratio": 0.016357688113413305,
+        "localization_error_l1_mean": 17.1162259217307,
+        "localization_error_l2_mean": 603.3636379440397
+    },
+    "lintroller_176.jpg": {
+        "ratio": 0.75,
+        "pixels": 1057672,
+        "thread_time": 0.1495310889999928,
+        "matches_good_ratio": 0.022900763358778626,
+        "localization_error_l1_mean": 25.40700941179415,
+        "localization_error_l2_mean": 1160.2338910263002
+    },
+    "lintroller_177.jpg": {
+        "ratio": 0.75,
+        "pixels": 189476,
+        "thread_time": 0.04233724599998823,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 20.202405960765244,
+        "localization_error_l2_mean": 817.5062955606963
+    },
+    "lintroller_178.jpg": {
+        "ratio": 0.75,
+        "pixels": 48756,
+        "thread_time": 0.020425238999962403,
+        "matches_good_ratio": 0.04252998909487459,
+        "localization_error_l1_mean": 24.179330848685527,
+        "localization_error_l2_mean": 1361.7005867311022
+    },
+    "lintroller_179.jpg": {
+        "ratio": 0.75,
+        "pixels": 628082,
+        "thread_time": 0.10155702800000199,
+        "matches_good_ratio": 0.009814612868047983,
+        "localization_error_l1_mean": 18.823060571302374,
+        "localization_error_l2_mean": 674.812676934955
+    },
+    "lintroller_18.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.02130942500002675,
+        "matches_good_ratio": 0.06652126499454744,
+        "localization_error_l1_mean": 35.21673761199319,
+        "localization_error_l2_mean": 2475.4806722704616
+    },
+    "lintroller_180.jpg": {
+        "ratio": 0.75,
+        "pixels": 219382,
+        "thread_time": 0.04970808899997792,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 15.93666909487193,
+        "localization_error_l2_mean": 472.79692103406484
+    },
+    "lintroller_181.jpg": {
+        "ratio": 0.75,
+        "pixels": 46844,
+        "thread_time": 0.019563887999993312,
+        "matches_good_ratio": 0.014176663031624863,
+        "localization_error_l1_mean": 19.79609557040515,
+        "localization_error_l2_mean": 773.5637050498244
+    },
+    "lintroller_182.jpg": {
+        "ratio": 0.75,
+        "pixels": 44454,
+        "thread_time": 0.02020440400002599,
+        "matches_good_ratio": 0.010905125408942203,
+        "localization_error_l1_mean": 22.273009571670315,
+        "localization_error_l2_mean": 955.8927452027534
+    },
+    "lintroller_183.jpg": {
+        "ratio": 0.75,
+        "pixels": 51230,
+        "thread_time": 0.020903067999995528,
+        "matches_good_ratio": 0.027262813522355506,
+        "localization_error_l1_mean": 22.79259013401643,
+        "localization_error_l2_mean": 997.8776034560997
+    },
+    "lintroller_20.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06425721100004012,
+        "matches_good_ratio": 0.009814612868047983,
+        "localization_error_l1_mean": 17.319547297520362,
+        "localization_error_l2_mean": 584.8723805613379
+    },
+    "lintroller_21.jpg": {
+        "ratio": 0.75,
+        "pixels": 25228,
+        "thread_time": 0.015540343999987272,
+        "matches_good_ratio": 0.020719738276990186,
+        "localization_error_l1_mean": 26.931951924264755,
+        "localization_error_l2_mean": 1313.9091626947093
+    },
+    "lintroller_22.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.022883911999997508,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 24.96842239363243,
+        "localization_error_l2_mean": 1139.6683798847423
+    },
+    "lintroller_23.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06916610299998638,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 17.570339290240337,
+        "localization_error_l2_mean": 572.4109960971535
+    },
+    "lintroller_24.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06392823400000225,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 16.885980221281393,
+        "localization_error_l2_mean": 557.07195219648
+    },
+    "lintroller_25.jpg": {
+        "ratio": 0.75,
+        "pixels": 786432,
+        "thread_time": 0.11403506900001048,
+        "matches_good_ratio": 0.04034896401308615,
+        "localization_error_l1_mean": 38.09213326723521,
+        "localization_error_l2_mean": 2931.083191843553
+    },
+    "lintroller_27.jpg": {
+        "ratio": 0.75,
+        "pixels": 129600,
+        "thread_time": 0.03012251800004151,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 20.022973937322686,
+        "localization_error_l2_mean": 750.4972562949862
+    },
+    "lintroller_28.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.0653799099999901,
+        "matches_good_ratio": 0.015267175572519083,
+        "localization_error_l1_mean": 16.952923465841078,
+        "localization_error_l2_mean": 582.2794390414929
+    },
+    "lintroller_29.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.5334733880000044,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 17.91142741362427,
+        "localization_error_l2_mean": 619.0446750130578
+    },
+    "lintroller_3.jpg": {
+        "ratio": 0.75,
+        "pixels": 1228800,
+        "thread_time": 0.19503020100000867,
+        "matches_good_ratio": 0.006543075245365322,
+        "localization_error_l1_mean": 14.854422953032616,
+        "localization_error_l2_mean": 447.62516381131695
+    },
+    "lintroller_30.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.3269179129999884,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 14.661583554133724,
+        "localization_error_l2_mean": 434.72359504343905
+    },
+    "lintroller_31.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.31833972399999766,
+        "matches_good_ratio": 0.009814612868047983,
+        "localization_error_l1_mean": 13.728220566278456,
+        "localization_error_l2_mean": 367.9399309098007
+    },
+    "lintroller_32.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.022424741999998332,
+        "matches_good_ratio": 0.010905125408942203,
+        "localization_error_l1_mean": 22.493649764565372,
+        "localization_error_l2_mean": 906.7052761567724
+    },
+    "lintroller_33.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.5310180630000332,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 17.175025756902496,
+        "localization_error_l2_mean": 566.2152003205439
+    },
+    "lintroller_34.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.021220405000008213,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 23.669351858557114,
+        "localization_error_l2_mean": 1090.8090709389878
+    },
+    "lintroller_35.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.6017175270000052,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 13.52289738545891,
+        "localization_error_l2_mean": 361.24511667947814
+    },
+    "lintroller_36.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.02650214200002665,
+        "matches_good_ratio": 0.016357688113413305,
+        "localization_error_l1_mean": 18.950230813728425,
+        "localization_error_l2_mean": 713.5066117481265
+    },
+    "lintroller_37.jpg": {
+        "ratio": 0.75,
+        "pixels": 983040,
+        "thread_time": 0.17579931500000612,
+        "matches_good_ratio": 0.023991275899672846,
+        "localization_error_l1_mean": 16.933564497054338,
+        "localization_error_l2_mean": 671.4864174369932
+    },
+    "lintroller_38.jpg": {
+        "ratio": 0.75,
+        "pixels": 786432,
+        "thread_time": 0.1335604419999754,
+        "matches_good_ratio": 0.009814612868047983,
+        "localization_error_l1_mean": 17.48453709759395,
+        "localization_error_l2_mean": 607.0807058005827
+    },
+    "lintroller_39.jpg": {
+        "ratio": 0.75,
+        "pixels": 136640,
+        "thread_time": 0.0294466099999795,
+        "matches_good_ratio": 0.04907306434023991,
+        "localization_error_l1_mean": 32.962887538298396,
+        "localization_error_l2_mean": 2017.1835575836742
+    },
+    "lintroller_4.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.05203064900001664,
+        "matches_good_ratio": 0.015267175572519083,
+        "localization_error_l1_mean": 21.406947927360577,
+        "localization_error_l2_mean": 917.2258738250812
+    },
+    "lintroller_40.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.051632915000027424,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 19.855897235766363,
+        "localization_error_l2_mean": 775.7916451996284
+    },
+    "lintroller_41.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06585315900002797,
+        "matches_good_ratio": 0.011995637949836423,
+        "localization_error_l1_mean": 16.873570058441995,
+        "localization_error_l2_mean": 542.0205692520574
+    },
+    "lintroller_42.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.05940701499997658,
+        "matches_good_ratio": 0.028353326063249727,
+        "localization_error_l1_mean": 19.160645870762018,
+        "localization_error_l2_mean": 745.2571053106453
+    },
+    "lintroller_43.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.5693032239999525,
+        "matches_good_ratio": 0.0021810250817884407,
+        "localization_error_l1_mean": 13.17233388686518,
+        "localization_error_l2_mean": 350.41726921726166
+    },
+    "lintroller_44.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.0233405290000519,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 23.87231583423677,
+        "localization_error_l2_mean": 1048.3257643920067
+    },
+    "lintroller_45.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.5459982339999669,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 15.479173308760416,
+        "localization_error_l2_mean": 474.83162037262304
+    },
+    "lintroller_46.jpg": {
+        "ratio": 0.75,
+        "pixels": 786432,
+        "thread_time": 0.1152646340000274,
+        "matches_good_ratio": 0.021810250817884406,
+        "localization_error_l1_mean": 24.47482628442729,
+        "localization_error_l2_mean": 1280.8751969922416
+    },
+    "lintroller_48.jpg": {
+        "ratio": 0.75,
+        "pixels": 1228800,
+        "thread_time": 0.17239822999999888,
+        "matches_good_ratio": 0.021810250817884406,
+        "localization_error_l1_mean": 22.38944872541022,
+        "localization_error_l2_mean": 995.6597065994843
+    },
+    "lintroller_49.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.301413986,
+        "matches_good_ratio": 0.006543075245365322,
+        "localization_error_l1_mean": 14.197756285755819,
+        "localization_error_l2_mean": 383.6904600794551
+    },
+    "lintroller_50.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.3141985070000146,
+        "matches_good_ratio": 0.0054525627044711015,
+        "localization_error_l1_mean": 14.325901875969107,
+        "localization_error_l2_mean": 384.1669361097469
+    },
+    "lintroller_51.jpg": {
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time": 0.016753315000016755,
+        "matches_good_ratio": 0.03707742639040349,
+        "localization_error_l1_mean": 27.156377320201212,
+        "localization_error_l2_mean": 1522.7566052238435
+    },
+    "lintroller_52.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06600464400003148,
+        "matches_good_ratio": 0.0021810250817884407,
+        "localization_error_l1_mean": 15.276611660923017,
+        "localization_error_l2_mean": 423.50768663719913
+    },
+    "lintroller_53.jpg": {
+        "ratio": 0.75,
+        "pixels": 983040,
+        "thread_time": 0.1450881279999976,
+        "matches_good_ratio": 0.020719738276990186,
+        "localization_error_l1_mean": 23.29516561626738,
+        "localization_error_l2_mean": 1087.838533664195
+    },
+    "lintroller_54.jpg": {
+        "ratio": 0.75,
+        "pixels": 983040,
+        "thread_time": 0.17366099200000917,
+        "matches_good_ratio": 0.004362050163576881,
+        "localization_error_l1_mean": 14.605812164273361,
+        "localization_error_l2_mean": 404.4323008123895
+    },
+    "lintroller_55.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.025537850999967304,
+        "matches_good_ratio": 0.015267175572519083,
+        "localization_error_l1_mean": 20.187115119093768,
+        "localization_error_l2_mean": 776.1440937820684
+    },
+    "lintroller_56.jpg": {
+        "ratio": 0.75,
+        "pixels": 786432,
+        "thread_time": 0.13366659200005415,
+        "matches_good_ratio": 0.017448200654307525,
+        "localization_error_l1_mean": 17.909780504399322,
+        "localization_error_l2_mean": 650.3888853085022
+    },
+    "lintroller_57.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.05127865899999051,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 21.68982660757416,
+        "localization_error_l2_mean": 839.8448889603234
+    },
+    "lintroller_58.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.022862202999988313,
+        "matches_good_ratio": 0.015267175572519083,
+        "localization_error_l1_mean": 22.611058275728215,
+        "localization_error_l2_mean": 943.9350471571918
+    },
+    "lintroller_6.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.02436354899998605,
+        "matches_good_ratio": 0.022900763358778626,
+        "localization_error_l1_mean": 20.08112028198908,
+        "localization_error_l2_mean": 762.3384820316847
+    },
+    "lintroller_60.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.5865654120000272,
+        "matches_good_ratio": 0.004362050163576881,
+        "localization_error_l1_mean": 14.499152388411494,
+        "localization_error_l2_mean": 432.4493011319254
+    },
+    "lintroller_62.jpg": {
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time": 0.016680738000047768,
+        "matches_good_ratio": 0.03489640130861505,
+        "localization_error_l1_mean": 31.894802180865337,
+        "localization_error_l2_mean": 2049.4253425011716
+    },
+    "lintroller_63.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.2954776270000252,
+        "matches_good_ratio": 0.014176663031624863,
+        "localization_error_l1_mean": 17.620944731368102,
+        "localization_error_l2_mean": 661.8103914582374
+    },
+    "lintroller_64.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.34648440600000185,
+        "matches_good_ratio": 0.006543075245365322,
+        "localization_error_l1_mean": 15.444292432479276,
+        "localization_error_l2_mean": 458.3049690168554
+    },
+    "lintroller_65.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.2798097869999765,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 17.5288646868557,
+        "localization_error_l2_mean": 592.59182682936
+    },
+    "lintroller_66.jpg": {
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time": 0.016029258999992635,
+        "matches_good_ratio": 0.05343511450381679,
+        "localization_error_l1_mean": 28.83829932592427,
+        "localization_error_l2_mean": 1682.1708514555614
+    },
+    "lintroller_67.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.026587551999966763,
+        "matches_good_ratio": 0.019629225736095966,
+        "localization_error_l1_mean": 19.49039083166757,
+        "localization_error_l2_mean": 718.274990700351
+    },
+    "lintroller_68.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06059661199998345,
+        "matches_good_ratio": 0.015267175572519083,
+        "localization_error_l1_mean": 20.117890361091174,
+        "localization_error_l2_mean": 769.2263628435994
+    },
+    "lintroller_69.jpg": {
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time": 0.01810865400000239,
+        "matches_good_ratio": 0.009814612868047983,
+        "localization_error_l1_mean": 24.826013263465274,
+        "localization_error_l2_mean": 1123.1912539230107
+    },
+    "lintroller_7.jpg": {
+        "ratio": 0.75,
+        "pixels": 3145728,
+        "thread_time": 0.5580608469999788,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 16.296942108720053,
+        "localization_error_l2_mean": 498.02586102102936
+    },
+    "lintroller_70.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06573674399999163,
+        "matches_good_ratio": 0.011995637949836423,
+        "localization_error_l1_mean": 16.70503563501323,
+        "localization_error_l2_mean": 522.3277291312716
+    },
+    "lintroller_72.jpg": {
+        "ratio": 0.75,
+        "pixels": 1228800,
+        "thread_time": 0.19497883999997612,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 14.10111634681893,
+        "localization_error_l2_mean": 411.345440465698
+    },
+    "lintroller_73.jpg": {
+        "ratio": 0.75,
+        "pixels": 1228800,
+        "thread_time": 0.18618366900000183,
+        "matches_good_ratio": 0.008724100327153763,
+        "localization_error_l1_mean": 16.435552707285243,
+        "localization_error_l2_mean": 536.8822513661215
+    },
+    "lintroller_75.jpg": {
+        "ratio": 0.75,
+        "pixels": 49152,
+        "thread_time": 0.01828076199996076,
+        "matches_good_ratio": 0.003271537622682661,
+        "localization_error_l1_mean": 19.109298073738454,
+        "localization_error_l2_mean": 667.51820913551
+    },
+    "lintroller_76.jpg": {
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time": 0.02283943600002658,
+        "matches_good_ratio": 0.013086150490730643,
+        "localization_error_l1_mean": 20.334229464099348,
+        "localization_error_l2_mean": 919.4450144214069
+    },
+    "lintroller_77.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06101107099999581,
+        "matches_good_ratio": 0.019629225736095966,
+        "localization_error_l1_mean": 18.048706029727647,
+        "localization_error_l2_mean": 650.1957273496944
+    },
+    "lintroller_78.jpg": {
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time": 0.06188018599999623,
+        "matches_good_ratio": 0.007633587786259542,
+        "localization_error_l1_mean": 16.5497626717504,
+        "localization_error_l2_mean": 527.77949069893
+    },
+    "lintroller_80.jpg": {
+        "ratio": 0.75,
+        "pixels": 921600,
+        "thread_time": 0.1330640850000009,
+        "matches_good_ratio": 0.017448200654307525,
+        "localization_error_l1_mean": 20.39995797925843,
+        "localization_error_l2_mean": 804.3497944929444
+    },
+    "lintroller_9.jpg": {
+        "ratio": 0.75,
+        "pixels": 1920000,
+        "thread_time": 0.30814283599994496,
+        "matches_good_ratio": 0.011995637949836423,
+        "localization_error_l1_mean": 15.847953413669,
+        "localization_error_l2_mean": 538.6747130165219
+    }
+}
