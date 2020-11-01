@@ -1,0 +1,263 @@
+[
+    {
+        "image_name": "10.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.048164792000001455,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 28.751895366467927,
+        "localization_error_l2_mean_sift": 1725.851181886547
+    },
+    {
+        "image_name": "11.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04548293699999917,
+        "matches_good_ratio_sift": 0.0,
+        "localization_error_l1_mean_sift": 17.76621652703536,
+        "localization_error_l2_mean_sift": 602.6620824676654
+    },
+    {
+        "image_name": "13.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04753623599999912,
+        "matches_good_ratio_sift": 0.08842105263157894,
+        "localization_error_l1_mean_sift": 36.20612499036287,
+        "localization_error_l2_mean_sift": 3982.5316306747104
+    },
+    {
+        "image_name": "14.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04766209800000354,
+        "matches_good_ratio_sift": 0.04631578947368421,
+        "localization_error_l1_mean_sift": 48.19323582699425,
+        "localization_error_l2_mean_sift": 3454.370872740285
+    },
+    {
+        "image_name": "15.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04698446699999792,
+        "matches_good_ratio_sift": 0.11578947368421053,
+        "localization_error_l1_mean_sift": 47.98830036364104,
+        "localization_error_l2_mean_sift": 4157.504135994126
+    },
+    {
+        "image_name": "16.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04739835799999881,
+        "matches_good_ratio_sift": 0.04842105263157895,
+        "localization_error_l1_mean_sift": 31.31461200914885,
+        "localization_error_l2_mean_sift": 1816.9983061607115
+    },
+    {
+        "image_name": "17.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04695323099999982,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 35.43809117367393,
+        "localization_error_l2_mean_sift": 2110.595745832764
+    },
+    {
+        "image_name": "18.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04679269200000036,
+        "matches_good_ratio_sift": 0.06947368421052631,
+        "localization_error_l1_mean_sift": 29.159109545255962,
+        "localization_error_l2_mean_sift": 1943.8416840493173
+    },
+    {
+        "image_name": "19.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04635896899999992,
+        "matches_good_ratio_sift": 0.037894736842105266,
+        "localization_error_l1_mean_sift": 31.359775021201685,
+        "localization_error_l2_mean_sift": 1878.606571570378
+    },
+    {
+        "image_name": "2.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.047313430999999184,
+        "matches_good_ratio_sift": 0.008421052631578947,
+        "localization_error_l1_mean_sift": 25.128545500102796,
+        "localization_error_l2_mean_sift": 1148.1315920177287
+    },
+    {
+        "image_name": "20.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04631171100000131,
+        "matches_good_ratio_sift": 0.035789473684210524,
+        "localization_error_l1_mean_sift": 47.896865941097865,
+        "localization_error_l2_mean_sift": 3858.805874689585
+    },
+    {
+        "image_name": "21.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04554102999999898,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 39.851219096936674,
+        "localization_error_l2_mean_sift": 3431.425693634736
+    },
+    {
+        "image_name": "22.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04691343799999714,
+        "matches_good_ratio_sift": 0.11578947368421053,
+        "localization_error_l1_mean_sift": 37.468984752454254,
+        "localization_error_l2_mean_sift": 2589.4802434275944
+    },
+    {
+        "image_name": "23.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.0459241879999972,
+        "matches_good_ratio_sift": 0.09473684210526316,
+        "localization_error_l1_mean_sift": 43.02891451383892,
+        "localization_error_l2_mean_sift": 3786.7758345814646
+    },
+    {
+        "image_name": "24.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04653800699999877,
+        "matches_good_ratio_sift": 0.16631578947368422,
+        "localization_error_l1_mean_sift": 50.158936237535976,
+        "localization_error_l2_mean_sift": 4694.442432200155
+    },
+    {
+        "image_name": "25.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04648588000000231,
+        "matches_good_ratio_sift": 0.08842105263157894,
+        "localization_error_l1_mean_sift": 46.641593467310855,
+        "localization_error_l2_mean_sift": 4861.196169757024
+    },
+    {
+        "image_name": "26.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.046231924000000646,
+        "matches_good_ratio_sift": 0.09473684210526316,
+        "localization_error_l1_mean_sift": 43.45147415964227,
+        "localization_error_l2_mean_sift": 5406.215755735598
+    },
+    {
+        "image_name": "27.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.045878117000000884,
+        "matches_good_ratio_sift": 0.11157894736842106,
+        "localization_error_l1_mean_sift": 38.24419330797697,
+        "localization_error_l2_mean_sift": 2755.1602052155913
+    },
+    {
+        "image_name": "28.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04720470200000193,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 28.917807488692436,
+        "localization_error_l2_mean_sift": 2057.521537675281
+    },
+    {
+        "image_name": "29.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04804769400000097,
+        "matches_good_ratio_sift": 0.05052631578947368,
+        "localization_error_l1_mean_sift": 28.308865966796876,
+        "localization_error_l2_mean_sift": 1471.3705887323533
+    },
+    {
+        "image_name": "3.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04896900199999976,
+        "matches_good_ratio_sift": 0.004210526315789474,
+        "localization_error_l1_mean_sift": 23.573990221525495,
+        "localization_error_l2_mean_sift": 1063.412902451235
+    },
+    {
+        "image_name": "30.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04771402800000146,
+        "matches_good_ratio_sift": 0.21473684210526317,
+        "localization_error_l1_mean_sift": 50.63892452842311,
+        "localization_error_l2_mean_sift": 5313.022895867903
+    },
+    {
+        "image_name": "31.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.05301132099999961,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 24.971541057385895,
+        "localization_error_l2_mean_sift": 1232.483844606892
+    },
+    {
+        "image_name": "4.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.053835367000001355,
+        "matches_good_ratio_sift": 0.018947368421052633,
+        "localization_error_l1_mean_sift": 23.724277857730264,
+        "localization_error_l2_mean_sift": 1177.9405442683449
+    },
+    {
+        "image_name": "5.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04898042899999666,
+        "matches_good_ratio_sift": 0.010526315789473684,
+        "localization_error_l1_mean_sift": 27.58019894248561,
+        "localization_error_l2_mean_sift": 1256.7246335052066
+    },
+    {
+        "image_name": "6.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04742197599999898,
+        "matches_good_ratio_sift": 0.00631578947368421,
+        "localization_error_l1_mean_sift": 23.233664936266447,
+        "localization_error_l2_mean_sift": 1020.4841737951407
+    },
+    {
+        "image_name": "7.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.04988687399999847,
+        "matches_good_ratio_sift": 0.018947368421052633,
+        "localization_error_l1_mean_sift": 27.05674994217722,
+        "localization_error_l2_mean_sift": 1443.0135552605698
+    },
+    {
+        "image_name": "8.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.0485996489999998,
+        "matches_good_ratio_sift": 0.016842105263157894,
+        "localization_error_l1_mean_sift": 21.08558044433594,
+        "localization_error_l2_mean_sift": 1094.3680957331435
+    },
+    {
+        "image_name": "9.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.05197727399999863,
+        "matches_good_ratio_sift": 0.035789473684210524,
+        "localization_error_l1_mean_sift": 28.203090691817433,
+        "localization_error_l2_mean_sift": 1736.219744211698
+    }
+]
