@@ -1,0 +1,1334 @@
+[
+    {
+        "image_name": "lintroller_1.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10589839299999682,
+        "matches_good_ratio_akaze": 0.030232558139534883,
+        "localization_error_l1_mean_akaze": 9.848837209302326,
+        "localization_error_l2_mean_akaze": 191.0860465116279
+    },
+    {
+        "image_name": "lintroller_10.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.10167192000000114,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 8.934883720930232,
+        "localization_error_l2_mean_akaze": 143.86046511627907
+    },
+    {
+        "image_name": "lintroller_11.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.05752520000000061,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 7.2046511627906975,
+        "localization_error_l2_mean_akaze": 101.74883720930232
+    },
+    {
+        "image_name": "lintroller_12.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.0690108909999978,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 7.095348837209302,
+        "localization_error_l2_mean_akaze": 90.11395348837209
+    },
+    {
+        "image_name": "lintroller_13.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.05855864200000127,
+        "matches_good_ratio_akaze": 0.030232558139534883,
+        "localization_error_l1_mean_akaze": 7.269767441860465,
+        "localization_error_l2_mean_akaze": 97.74883720930232
+    },
+    {
+        "image_name": "lintroller_14.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.09993135999999936,
+        "matches_good_ratio_akaze": 0.03255813953488372,
+        "localization_error_l1_mean_akaze": 10.446511627906977,
+        "localization_error_l2_mean_akaze": 201.09302325581396
+    },
+    {
+        "image_name": "lintroller_15.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.06063027700000134,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 8.016279069767442,
+        "localization_error_l2_mean_akaze": 123.41162790697675
+    },
+    {
+        "image_name": "lintroller_16.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.11007414899999901,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 7.402325581395349,
+        "localization_error_l2_mean_akaze": 104.85813953488372
+    },
+    {
+        "image_name": "lintroller_17.jpg",
+        "ratio": 0.75,
+        "pixels": 600000,
+        "thread_time_akaze": 0.09673557899999707,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 6.869767441860465,
+        "localization_error_l2_mean_akaze": 87.72558139534884
+    },
+    {
+        "image_name": "lintroller_18.jpg",
+        "ratio": 0.75,
+        "pixels": 480960,
+        "thread_time_akaze": 0.07793756899999948,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 8.409302325581395,
+        "localization_error_l2_mean_akaze": 146.91627906976746
+    },
+    {
+        "image_name": "lintroller_19.jpg",
+        "ratio": 0.75,
+        "pixels": 666000,
+        "thread_time_akaze": 0.09808733100000211,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 7.430232558139535,
+        "localization_error_l2_mean_akaze": 96.94651162790697
+    },
+    {
+        "image_name": "lintroller_2.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.11483277699999661,
+        "matches_good_ratio_akaze": 0.004651162790697674,
+        "localization_error_l1_mean_akaze": 6.667441860465116,
+        "localization_error_l2_mean_akaze": 78.0953488372093
+    },
+    {
+        "image_name": "lintroller_20.jpg",
+        "ratio": 0.75,
+        "pixels": 632160,
+        "thread_time_akaze": 0.09780122099999744,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 6.46046511627907,
+        "localization_error_l2_mean_akaze": 75.65581395348838
+    },
+    {
+        "image_name": "lintroller_21.jpg",
+        "ratio": 0.75,
+        "pixels": 219382,
+        "thread_time_akaze": 0.0509238449999998,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 7.0813953488372094,
+        "localization_error_l2_mean_akaze": 92.94186046511628
+    },
+    {
+        "image_name": "lintroller_22.jpg",
+        "ratio": 0.75,
+        "pixels": 333152,
+        "thread_time_akaze": 0.054258220999997775,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 10.14186046511628,
+        "localization_error_l2_mean_akaze": 185.25813953488372
+    },
+    {
+        "image_name": "lintroller_23.jpg",
+        "ratio": 0.75,
+        "pixels": 607680,
+        "thread_time_akaze": 0.0905759370000041,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 7.323255813953488,
+        "localization_error_l2_mean_akaze": 101.19767441860465
+    },
+    {
+        "image_name": "lintroller_24.jpg",
+        "ratio": 0.75,
+        "pixels": 189476,
+        "thread_time_akaze": 0.0402176090000026,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 8.195348837209302,
+        "localization_error_l2_mean_akaze": 132.5720930232558
+    },
+    {
+        "image_name": "lintroller_25.jpg",
+        "ratio": 0.75,
+        "pixels": 857000,
+        "thread_time_akaze": 0.10753164500000167,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.523255813953488,
+        "localization_error_l2_mean_akaze": 141.18837209302325
+    },
+    {
+        "image_name": "lintroller_26.jpg",
+        "ratio": 0.75,
+        "pixels": 456000,
+        "thread_time_akaze": 0.0764841969999992,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 6.965116279069767,
+        "localization_error_l2_mean_akaze": 86.14186046511628
+    },
+    {
+        "image_name": "lintroller_27.jpg",
+        "ratio": 0.75,
+        "pixels": 452094,
+        "thread_time_akaze": 0.0811725679999995,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 7.841860465116279,
+        "localization_error_l2_mean_akaze": 111.09302325581395
+    },
+    {
+        "image_name": "lintroller_28.jpg",
+        "ratio": 0.75,
+        "pixels": 881118,
+        "thread_time_akaze": 0.1219990669999973,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 6.879069767441861,
+        "localization_error_l2_mean_akaze": 86.7860465116279
+    },
+    {
+        "image_name": "lintroller_29.jpg",
+        "ratio": 0.75,
+        "pixels": 583647,
+        "thread_time_akaze": 0.0904124589999995,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 6.953488372093023,
+        "localization_error_l2_mean_akaze": 93.30697674418604
+    },
+    {
+        "image_name": "lintroller_3.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.05216844599999604,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 8.553488372093023,
+        "localization_error_l2_mean_akaze": 143.0186046511628
+    },
+    {
+        "image_name": "lintroller_30.jpg",
+        "ratio": 0.75,
+        "pixels": 486000,
+        "thread_time_akaze": 0.077965583000001,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 7.339534883720931,
+        "localization_error_l2_mean_akaze": 103.20930232558139
+    },
+    {
+        "image_name": "lintroller_31.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.1079189100000022,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 6.618604651162791,
+        "localization_error_l2_mean_akaze": 80.73488372093023
+    },
+    {
+        "image_name": "lintroller_32.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.09621136300000188,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 8.234883720930233,
+        "localization_error_l2_mean_akaze": 129.21162790697673
+    },
+    {
+        "image_name": "lintroller_33.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10649016899999708,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 6.769767441860465,
+        "localization_error_l2_mean_akaze": 83.5
+    },
+    {
+        "image_name": "lintroller_34.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.09614375200000325,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 9.61860465116279,
+        "localization_error_l2_mean_akaze": 163.04651162790697
+    },
+    {
+        "image_name": "lintroller_35.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10630572000000171,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 7.374418604651162,
+        "localization_error_l2_mean_akaze": 105.40697674418605
+    },
+    {
+        "image_name": "lintroller_36.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.10564083999999951,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 6.390697674418605,
+        "localization_error_l2_mean_akaze": 82.89767441860465
+    },
+    {
+        "image_name": "lintroller_37.jpg",
+        "ratio": 0.75,
+        "pixels": 600000,
+        "thread_time_akaze": 0.09109811100000087,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 6.7,
+        "localization_error_l2_mean_akaze": 81.96046511627907
+    },
+    {
+        "image_name": "lintroller_38.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10784568599999744,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 6.616279069767442,
+        "localization_error_l2_mean_akaze": 80.57906976744187
+    },
+    {
+        "image_name": "lintroller_39.jpg",
+        "ratio": 0.75,
+        "pixels": 952000,
+        "thread_time_akaze": 0.12915755499999904,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 6.7627906976744185,
+        "localization_error_l2_mean_akaze": 82.4
+    },
+    {
+        "image_name": "lintroller_4.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.09799804099999676,
+        "matches_good_ratio_akaze": 0.004651162790697674,
+        "localization_error_l1_mean_akaze": 6.604651162790698,
+        "localization_error_l2_mean_akaze": 77.77209302325582
+    },
+    {
+        "image_name": "lintroller_40.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.052991685999998595,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 8.865116279069767,
+        "localization_error_l2_mean_akaze": 139.90697674418604
+    },
+    {
+        "image_name": "lintroller_41.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.06014954999999844,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 6.855813953488372,
+        "localization_error_l2_mean_akaze": 85.77674418604651
+    },
+    {
+        "image_name": "lintroller_42.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.05217664299999569,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 8.165116279069768,
+        "localization_error_l2_mean_akaze": 128.96976744186045
+    },
+    {
+        "image_name": "lintroller_43.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10256289899999871,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 6.676744186046512,
+        "localization_error_l2_mean_akaze": 92.00697674418605
+    },
+    {
+        "image_name": "lintroller_44.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.0929386139999977,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 9.037209302325582,
+        "localization_error_l2_mean_akaze": 143.53488372093022
+    },
+    {
+        "image_name": "lintroller_45.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.1068861950000013,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 7.209302325581396,
+        "localization_error_l2_mean_akaze": 96.93488372093023
+    },
+    {
+        "image_name": "lintroller_46.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.09866980900000044,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 8.344186046511627,
+        "localization_error_l2_mean_akaze": 133.8139534883721
+    },
+    {
+        "image_name": "lintroller_47.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.06441992900000315,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 8.609302325581396,
+        "localization_error_l2_mean_akaze": 133.76279069767443
+    },
+    {
+        "image_name": "lintroller_48.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.09276469099999929,
+        "matches_good_ratio_akaze": 0.030232558139534883,
+        "localization_error_l1_mean_akaze": 10.313953488372093,
+        "localization_error_l2_mean_akaze": 190.57441860465116
+    },
+    {
+        "image_name": "lintroller_49.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10901276699999585,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 7.102325581395349,
+        "localization_error_l2_mean_akaze": 88.8232558139535
+    },
+    {
+        "image_name": "lintroller_5.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10869181700000041,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 7.3534883720930235,
+        "localization_error_l2_mean_akaze": 104.97209302325581
+    },
+    {
+        "image_name": "lintroller_50.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.11845648899999617,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 6.23953488372093,
+        "localization_error_l2_mean_akaze": 74.82558139534883
+    },
+    {
+        "image_name": "lintroller_51.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_akaze": 0.026840755999998578,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 8.416279069767441,
+        "localization_error_l2_mean_akaze": 127.95581395348837
+    },
+    {
+        "image_name": "lintroller_52.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_akaze": 0.06406897800000166,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 6.7953488372093025,
+        "localization_error_l2_mean_akaze": 90.28837209302326
+    },
+    {
+        "image_name": "lintroller_53.jpg",
+        "ratio": 0.75,
+        "pixels": 600000,
+        "thread_time_akaze": 0.08563879700000143,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 7.5488372093023255,
+        "localization_error_l2_mean_akaze": 112.15813953488372
+    },
+    {
+        "image_name": "lintroller_6.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.11347642100000144,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 6.2372093023255815,
+        "localization_error_l2_mean_akaze": 74.7953488372093
+    },
+    {
+        "image_name": "lintroller_7.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_akaze": 0.10703804499999592,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 6.988372093023256,
+        "localization_error_l2_mean_akaze": 100.08604651162791
+    },
+    {
+        "image_name": "lintroller_8.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_akaze": 0.02931711799999448,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 9.269767441860465,
+        "localization_error_l2_mean_akaze": 158.94883720930233
+    },
+    {
+        "image_name": "lintroller_9.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_akaze": 0.03212261099999836,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 9.31860465116279,
+        "localization_error_l2_mean_akaze": 156.08139534883722
+    },
+    {
+        "image_name": "nothing_1.jpg",
+        "ratio": 0.75,
+        "pixels": 420938,
+        "thread_time_akaze": 0.07766285099999948,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 7.323255813953488,
+        "localization_error_l2_mean_akaze": 102.26744186046511
+    },
+    {
+        "image_name": "nothing_10.jpg",
+        "ratio": 0.75,
+        "pixels": 49152,
+        "thread_time_akaze": 0.022359774000001664,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.723255813953488,
+        "localization_error_l2_mean_akaze": 142.85813953488372
+    },
+    {
+        "image_name": "nothing_11.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08018404500000287,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 10.376744186046512,
+        "localization_error_l2_mean_akaze": 187.73488372093024
+    },
+    {
+        "image_name": "nothing_12.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08638286799999406,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 8.262790697674419,
+        "localization_error_l2_mean_akaze": 125.7046511627907
+    },
+    {
+        "image_name": "nothing_13.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08081131300000521,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 9.867441860465116,
+        "localization_error_l2_mean_akaze": 182.9139534883721
+    },
+    {
+        "image_name": "nothing_15.jpg",
+        "ratio": 0.75,
+        "pixels": 55696,
+        "thread_time_akaze": 0.02235650899999797,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 10.418604651162791,
+        "localization_error_l2_mean_akaze": 192.52093023255813
+    },
+    {
+        "image_name": "nothing_16.jpg",
+        "ratio": 0.75,
+        "pixels": 419628,
+        "thread_time_akaze": 0.06824734599999971,
+        "matches_good_ratio_akaze": 0.004651162790697674,
+        "localization_error_l1_mean_akaze": 7.597674418604651,
+        "localization_error_l2_mean_akaze": 107.9046511627907
+    },
+    {
+        "image_name": "nothing_17.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.0874336790000001,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 7.232558139534884,
+        "localization_error_l2_mean_akaze": 99.73023255813953
+    },
+    {
+        "image_name": "nothing_18.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08211007099999534,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 7.044186046511628,
+        "localization_error_l2_mean_akaze": 90.5046511627907
+    },
+    {
+        "image_name": "nothing_19.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08116856100000547,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 7.1976744186046515,
+        "localization_error_l2_mean_akaze": 97.56976744186046
+    },
+    {
+        "image_name": "nothing_2.jpg",
+        "ratio": 0.75,
+        "pixels": 62458,
+        "thread_time_akaze": 0.02431069400000041,
+        "matches_good_ratio_akaze": 0.004651162790697674,
+        "localization_error_l1_mean_akaze": 8.293023255813953,
+        "localization_error_l2_mean_akaze": 126.76744186046511
+    },
+    {
+        "image_name": "nothing_20.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08152781200000447,
+        "matches_good_ratio_akaze": 0.030232558139534883,
+        "localization_error_l1_mean_akaze": 7.630232558139535,
+        "localization_error_l2_mean_akaze": 119.72790697674418
+    },
+    {
+        "image_name": "nothing_21.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.09370404900000295,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 6.379069767441861,
+        "localization_error_l2_mean_akaze": 73.74651162790698
+    },
+    {
+        "image_name": "nothing_22.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.08433309500000519,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.090697674418605,
+        "localization_error_l2_mean_akaze": 113.13255813953488
+    },
+    {
+        "image_name": "nothing_23.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_akaze": 0.09154264000000012,
+        "matches_good_ratio_akaze": 0.0,
+        "localization_error_l1_mean_akaze": 5.213953488372093,
+        "localization_error_l2_mean_akaze": 54.283720930232555
+    },
+    {
+        "image_name": "nothing_24.jpg",
+        "ratio": 0.75,
+        "pixels": 420938,
+        "thread_time_akaze": 0.07286422099999612,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 9.795348837209302,
+        "localization_error_l2_mean_akaze": 187.67906976744186
+    },
+    {
+        "image_name": "nothing_25.jpg",
+        "ratio": 0.75,
+        "pixels": 83544,
+        "thread_time_akaze": 0.023908715999994,
+        "matches_good_ratio_akaze": 0.03953488372093023,
+        "localization_error_l1_mean_akaze": 13.644186046511628,
+        "localization_error_l2_mean_akaze": 340.61162790697676
+    },
+    {
+        "image_name": "nothing_26.jpg",
+        "ratio": 0.75,
+        "pixels": 86848,
+        "thread_time_akaze": 0.02329418800000127,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 9.186046511627907,
+        "localization_error_l2_mean_akaze": 154.0186046511628
+    },
+    {
+        "image_name": "nothing_27.jpg",
+        "ratio": 0.75,
+        "pixels": 69620,
+        "thread_time_akaze": 0.023128238000005297,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 10.33953488372093,
+        "localization_error_l2_mean_akaze": 188.13953488372093
+    },
+    {
+        "image_name": "nothing_28.jpg",
+        "ratio": 0.75,
+        "pixels": 68204,
+        "thread_time_akaze": 0.02951380800000436,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 9.523255813953488,
+        "localization_error_l2_mean_akaze": 167.2906976744186
+    },
+    {
+        "image_name": "nothing_29.jpg",
+        "ratio": 0.75,
+        "pixels": 69148,
+        "thread_time_akaze": 0.025896871000000488,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.088372093023256,
+        "localization_error_l2_mean_akaze": 127.22325581395349
+    },
+    {
+        "image_name": "nothing_3.jpg",
+        "ratio": 0.75,
+        "pixels": 25228,
+        "thread_time_akaze": 0.017805826999996555,
+        "matches_good_ratio_akaze": 0.044186046511627906,
+        "localization_error_l1_mean_akaze": 12.981395348837209,
+        "localization_error_l2_mean_akaze": 306.66511627906976
+    },
+    {
+        "image_name": "nothing_30.jpg",
+        "ratio": 0.75,
+        "pixels": 55696,
+        "thread_time_akaze": 0.025225448000000483,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 8.911627906976744,
+        "localization_error_l2_mean_akaze": 147.2046511627907
+    },
+    {
+        "image_name": "nothing_31.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_akaze": 0.027676329999998472,
+        "matches_good_ratio_akaze": 0.027906976744186046,
+        "localization_error_l1_mean_akaze": 9.453488372093023,
+        "localization_error_l2_mean_akaze": 183.67209302325583
+    },
+    {
+        "image_name": "nothing_32.jpg",
+        "ratio": 0.75,
+        "pixels": 83544,
+        "thread_time_akaze": 0.02583581199999685,
+        "matches_good_ratio_akaze": 0.004651162790697674,
+        "localization_error_l1_mean_akaze": 8.088372093023256,
+        "localization_error_l2_mean_akaze": 109.11162790697675
+    },
+    {
+        "image_name": "nothing_33.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_akaze": 0.026108135000001198,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 8.723255813953488,
+        "localization_error_l2_mean_akaze": 138.58372093023254
+    },
+    {
+        "image_name": "nothing_34.jpg",
+        "ratio": 0.75,
+        "pixels": 68385,
+        "thread_time_akaze": 0.02608620600000222,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 9.293023255813953,
+        "localization_error_l2_mean_akaze": 161.93953488372094
+    },
+    {
+        "image_name": "nothing_35.jpg",
+        "ratio": 0.75,
+        "pixels": 54755,
+        "thread_time_akaze": 0.023131253999999046,
+        "matches_good_ratio_akaze": 0.03488372093023256,
+        "localization_error_l1_mean_akaze": 13.723255813953488,
+        "localization_error_l2_mean_akaze": 324.76976744186044
+    },
+    {
+        "image_name": "nothing_36.jpg",
+        "ratio": 0.75,
+        "pixels": 64664,
+        "thread_time_akaze": 0.023515670999998406,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 11.365116279069767,
+        "localization_error_l2_mean_akaze": 228.03488372093022
+    },
+    {
+        "image_name": "nothing_37.jpg",
+        "ratio": 0.75,
+        "pixels": 54044,
+        "thread_time_akaze": 0.022583008000005123,
+        "matches_good_ratio_akaze": 0.046511627906976744,
+        "localization_error_l1_mean_akaze": 12.083720930232559,
+        "localization_error_l2_mean_akaze": 279.3813953488372
+    },
+    {
+        "image_name": "nothing_38.jpg",
+        "ratio": 0.75,
+        "pixels": 84488,
+        "thread_time_akaze": 0.027486393999993197,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 8.134883720930233,
+        "localization_error_l2_mean_akaze": 126.86046511627907
+    },
+    {
+        "image_name": "nothing_39.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_akaze": 0.029194686000003855,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.397674418604652,
+        "localization_error_l2_mean_akaze": 136.5
+    },
+    {
+        "image_name": "nothing_4.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_akaze": 0.02489887400000157,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 13.17674418604651,
+        "localization_error_l2_mean_akaze": 321.4139534883721
+    },
+    {
+        "image_name": "nothing_40.jpg",
+        "ratio": 0.75,
+        "pixels": 83308,
+        "thread_time_akaze": 0.023499250000000416,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 8.369767441860466,
+        "localization_error_l2_mean_akaze": 139.03023255813955
+    },
+    {
+        "image_name": "nothing_41.jpg",
+        "ratio": 0.75,
+        "pixels": 83544,
+        "thread_time_akaze": 0.027751078999997958,
+        "matches_good_ratio_akaze": 0.002325581395348837,
+        "localization_error_l1_mean_akaze": 7.909302325581395,
+        "localization_error_l2_mean_akaze": 106.71860465116279
+    },
+    {
+        "image_name": "nothing_42.jpg",
+        "ratio": 0.75,
+        "pixels": 55460,
+        "thread_time_akaze": 0.0240743880000025,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 10.367441860465116,
+        "localization_error_l2_mean_akaze": 195.31627906976743
+    },
+    {
+        "image_name": "nothing_43.jpg",
+        "ratio": 0.75,
+        "pixels": 74104,
+        "thread_time_akaze": 0.02766153600000365,
+        "matches_good_ratio_akaze": 0.027906976744186046,
+        "localization_error_l1_mean_akaze": 9.68139534883721,
+        "localization_error_l2_mean_akaze": 176.6813953488372
+    },
+    {
+        "image_name": "nothing_44.jpg",
+        "ratio": 0.75,
+        "pixels": 82600,
+        "thread_time_akaze": 0.027693788000000552,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 8.132558139534884,
+        "localization_error_l2_mean_akaze": 120.64418604651163
+    },
+    {
+        "image_name": "nothing_45.jpg",
+        "ratio": 0.75,
+        "pixels": 61596,
+        "thread_time_akaze": 0.024265461999995352,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 8.169767441860465,
+        "localization_error_l2_mean_akaze": 121.38372093023256
+    },
+    {
+        "image_name": "nothing_46.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_akaze": 0.030164228000003845,
+        "matches_good_ratio_akaze": 0.004651162790697674,
+        "localization_error_l1_mean_akaze": 7.906976744186046,
+        "localization_error_l2_mean_akaze": 115.04651162790698
+    },
+    {
+        "image_name": "nothing_47.jpg",
+        "ratio": 0.75,
+        "pixels": 88264,
+        "thread_time_akaze": 0.028501751000000297,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 8.186046511627907,
+        "localization_error_l2_mean_akaze": 122.3906976744186
+    },
+    {
+        "image_name": "nothing_48.jpg",
+        "ratio": 0.75,
+        "pixels": 72145,
+        "thread_time_akaze": 0.02453347400000183,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 9.52093023255814,
+        "localization_error_l2_mean_akaze": 178.33953488372094
+    },
+    {
+        "image_name": "nothing_49.jpg",
+        "ratio": 0.75,
+        "pixels": 98230,
+        "thread_time_akaze": 0.02626719599999916,
+        "matches_good_ratio_akaze": 0.030232558139534883,
+        "localization_error_l1_mean_akaze": 9.30232558139535,
+        "localization_error_l2_mean_akaze": 164.03720930232558
+    },
+    {
+        "image_name": "nothing_5.jpg",
+        "ratio": 0.75,
+        "pixels": 480000,
+        "thread_time_akaze": 0.08361736399999842,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 6.455813953488372,
+        "localization_error_l2_mean_akaze": 74.85116279069767
+    },
+    {
+        "image_name": "nothing_50.jpg",
+        "ratio": 0.75,
+        "pixels": 82720,
+        "thread_time_akaze": 0.02563011699999862,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.68139534883721,
+        "localization_error_l2_mean_akaze": 138.15581395348838
+    },
+    {
+        "image_name": "nothing_51.jpg",
+        "ratio": 0.75,
+        "pixels": 98648,
+        "thread_time_akaze": 0.030577457999996227,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.474418604651163,
+        "localization_error_l2_mean_akaze": 132.89767441860465
+    },
+    {
+        "image_name": "nothing_52.jpg",
+        "ratio": 0.75,
+        "pixels": 80476,
+        "thread_time_akaze": 0.028256523999999672,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 8.972093023255814,
+        "localization_error_l2_mean_akaze": 145.35813953488372
+    },
+    {
+        "image_name": "nothing_53.jpg",
+        "ratio": 0.75,
+        "pixels": 103840,
+        "thread_time_akaze": 0.030723243000004175,
+        "matches_good_ratio_akaze": 0.0,
+        "localization_error_l1_mean_akaze": 7.579069767441861,
+        "localization_error_l2_mean_akaze": 102.60232558139535
+    },
+    {
+        "image_name": "nothing_6.jpg",
+        "ratio": 0.75,
+        "pixels": 136640,
+        "thread_time_akaze": 0.035906666999999004,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 10.106976744186046,
+        "localization_error_l2_mean_akaze": 181.03720930232558
+    },
+    {
+        "image_name": "nothing_7.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_akaze": 0.01759485999999555,
+        "matches_good_ratio_akaze": 0.027906976744186046,
+        "localization_error_l1_mean_akaze": 9.546511627906977,
+        "localization_error_l2_mean_akaze": 166.06744186046512
+    },
+    {
+        "image_name": "nothing_8.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_akaze": 0.019220674000003157,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 12.165116279069768,
+        "localization_error_l2_mean_akaze": 282.18837209302325
+    },
+    {
+        "image_name": "nothing_9.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_akaze": 0.01751645899999943,
+        "matches_good_ratio_akaze": 0.05581395348837209,
+        "localization_error_l1_mean_akaze": 12.962790697674418,
+        "localization_error_l2_mean_akaze": 301.9441860465116
+    },
+    {
+        "image_name": "sandglass_1.jpg",
+        "ratio": 0.75,
+        "pixels": 53400,
+        "thread_time_akaze": 0.02517337799999808,
+        "matches_good_ratio_akaze": 0.03488372093023256,
+        "localization_error_l1_mean_akaze": 11.355813953488372,
+        "localization_error_l2_mean_akaze": 241.53255813953487
+    },
+    {
+        "image_name": "sandglass_10.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.0744888130000021,
+        "matches_good_ratio_akaze": 0.03488372093023256,
+        "localization_error_l1_mean_akaze": 8.96046511627907,
+        "localization_error_l2_mean_akaze": 146.61627906976744
+    },
+    {
+        "image_name": "sandglass_11.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07435766599999738,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 8.893023255813954,
+        "localization_error_l2_mean_akaze": 144.06976744186048
+    },
+    {
+        "image_name": "sandglass_12.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.071924494000001,
+        "matches_good_ratio_akaze": 0.027906976744186046,
+        "localization_error_l1_mean_akaze": 7.504651162790697,
+        "localization_error_l2_mean_akaze": 121.20232558139534
+    },
+    {
+        "image_name": "sandglass_13.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07937134599999496,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 7.816279069767442,
+        "localization_error_l2_mean_akaze": 118.3
+    },
+    {
+        "image_name": "sandglass_14.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07316325600000084,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 7.590697674418605,
+        "localization_error_l2_mean_akaze": 108.94418604651163
+    },
+    {
+        "image_name": "sandglass_15.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07656149200000328,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.102325581395348,
+        "localization_error_l2_mean_akaze": 119.73488372093023
+    },
+    {
+        "image_name": "sandglass_16.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06942776700000053,
+        "matches_good_ratio_akaze": 0.07209302325581396,
+        "localization_error_l1_mean_akaze": 14.397674418604652,
+        "localization_error_l2_mean_akaze": 501.81162790697675
+    },
+    {
+        "image_name": "sandglass_17.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07265024699999856,
+        "matches_good_ratio_akaze": 0.07906976744186046,
+        "localization_error_l1_mean_akaze": 14.330232558139535,
+        "localization_error_l2_mean_akaze": 507.846511627907
+    },
+    {
+        "image_name": "sandglass_18.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07316129599999499,
+        "matches_good_ratio_akaze": 0.14418604651162792,
+        "localization_error_l1_mean_akaze": 25.134883720930233,
+        "localization_error_l2_mean_akaze": 1124.293023255814
+    },
+    {
+        "image_name": "sandglass_19.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07405448600000142,
+        "matches_good_ratio_akaze": 0.044186046511627906,
+        "localization_error_l1_mean_akaze": 11.493023255813954,
+        "localization_error_l2_mean_akaze": 271.72558139534885
+    },
+    {
+        "image_name": "sandglass_2.jpg",
+        "ratio": 0.75,
+        "pixels": 454894,
+        "thread_time_akaze": 0.07501888200000195,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 8.548837209302325,
+        "localization_error_l2_mean_akaze": 135.27441860465117
+    },
+    {
+        "image_name": "sandglass_20.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.0757397659999981,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.665116279069768,
+        "localization_error_l2_mean_akaze": 139.87441860465117
+    },
+    {
+        "image_name": "sandglass_21.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.071609445,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 8.83953488372093,
+        "localization_error_l2_mean_akaze": 146.93255813953488
+    },
+    {
+        "image_name": "sandglass_22.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06881220300000024,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.106976744186046,
+        "localization_error_l2_mean_akaze": 120.1767441860465
+    },
+    {
+        "image_name": "sandglass_23.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07384011300000282,
+        "matches_good_ratio_akaze": 0.027906976744186046,
+        "localization_error_l1_mean_akaze": 12.855813953488372,
+        "localization_error_l2_mean_akaze": 311.9813953488372
+    },
+    {
+        "image_name": "sandglass_24.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07194384000000298,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 8.367441860465116,
+        "localization_error_l2_mean_akaze": 129.45116279069768
+    },
+    {
+        "image_name": "sandglass_25.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06877124199999685,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 8.002325581395349,
+        "localization_error_l2_mean_akaze": 123.13720930232559
+    },
+    {
+        "image_name": "sandglass_26.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07462414699999442,
+        "matches_good_ratio_akaze": 0.03488372093023256,
+        "localization_error_l1_mean_akaze": 9.206976744186047,
+        "localization_error_l2_mean_akaze": 178.6953488372093
+    },
+    {
+        "image_name": "sandglass_27.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06725521900000331,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 9.111627906976745,
+        "localization_error_l2_mean_akaze": 148.54883720930232
+    },
+    {
+        "image_name": "sandglass_28.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06871121799999003,
+        "matches_good_ratio_akaze": 0.05813953488372093,
+        "localization_error_l1_mean_akaze": 18.472093023255812,
+        "localization_error_l2_mean_akaze": 561.5930232558139
+    },
+    {
+        "image_name": "sandglass_29.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07729279400000166,
+        "matches_good_ratio_akaze": 0.03953488372093023,
+        "localization_error_l1_mean_akaze": 9.504651162790697,
+        "localization_error_l2_mean_akaze": 194.5139534883721
+    },
+    {
+        "image_name": "sandglass_3.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06860710599998754,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 8.293023255813953,
+        "localization_error_l2_mean_akaze": 122.70232558139534
+    },
+    {
+        "image_name": "sandglass_30.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.0692031199999974,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 12.311627906976744,
+        "localization_error_l2_mean_akaze": 269.74418604651163
+    },
+    {
+        "image_name": "sandglass_31.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07418734400000915,
+        "matches_good_ratio_akaze": 0.03953488372093023,
+        "localization_error_l1_mean_akaze": 9.983720930232558,
+        "localization_error_l2_mean_akaze": 193.6953488372093
+    },
+    {
+        "image_name": "sandglass_32.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.072406634999993,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 9.111627906976745,
+        "localization_error_l2_mean_akaze": 149.47441860465116
+    },
+    {
+        "image_name": "sandglass_33.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07240885600000979,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 8.053488372093023,
+        "localization_error_l2_mean_akaze": 119.0813953488372
+    },
+    {
+        "image_name": "sandglass_34.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07618479399999956,
+        "matches_good_ratio_akaze": 0.013953488372093023,
+        "localization_error_l1_mean_akaze": 8.293023255813953,
+        "localization_error_l2_mean_akaze": 128.05116279069767
+    },
+    {
+        "image_name": "sandglass_35.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.06980930699999988,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 8.204651162790698,
+        "localization_error_l2_mean_akaze": 118.46511627906976
+    },
+    {
+        "image_name": "sandglass_4.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.0752567680000027,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 8.602325581395348,
+        "localization_error_l2_mean_akaze": 135.99302325581397
+    },
+    {
+        "image_name": "sandglass_46.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07479296999999008,
+        "matches_good_ratio_akaze": 0.023255813953488372,
+        "localization_error_l1_mean_akaze": 7.897674418604651,
+        "localization_error_l2_mean_akaze": 125.65116279069767
+    },
+    {
+        "image_name": "sandglass_47.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07812542800000699,
+        "matches_good_ratio_akaze": 0.011627906976744186,
+        "localization_error_l1_mean_akaze": 7.253488372093023,
+        "localization_error_l2_mean_akaze": 95.9046511627907
+    },
+    {
+        "image_name": "sandglass_48.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.11095670199999574,
+        "matches_good_ratio_akaze": 0.03488372093023256,
+        "localization_error_l1_mean_akaze": 8.546511627906977,
+        "localization_error_l2_mean_akaze": 155.81162790697675
+    },
+    {
+        "image_name": "sandglass_49.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.10902114099999949,
+        "matches_good_ratio_akaze": 0.02558139534883721,
+        "localization_error_l1_mean_akaze": 7.797674418604651,
+        "localization_error_l2_mean_akaze": 121.56976744186046
+    },
+    {
+        "image_name": "sandglass_5.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07263456999999107,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 8.604651162790697,
+        "localization_error_l2_mean_akaze": 142.40465116279069
+    },
+    {
+        "image_name": "sandglass_50.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.11566167499999835,
+        "matches_good_ratio_akaze": 0.0069767441860465115,
+        "localization_error_l1_mean_akaze": 6.506976744186047,
+        "localization_error_l2_mean_akaze": 80.33023255813953
+    },
+    {
+        "image_name": "sandglass_51.jpg",
+        "ratio": 0.75,
+        "pixels": 129600,
+        "thread_time_akaze": 0.037249389999999494,
+        "matches_good_ratio_akaze": 0.009302325581395349,
+        "localization_error_l1_mean_akaze": 8.113953488372093,
+        "localization_error_l2_mean_akaze": 126.26744186046511
+    },
+    {
+        "image_name": "sandglass_52.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_akaze": 0.11482301700000619,
+        "matches_good_ratio_akaze": 0.018604651162790697,
+        "localization_error_l1_mean_akaze": 6.920930232558139,
+        "localization_error_l2_mean_akaze": 85.07441860465116
+    },
+    {
+        "image_name": "sandglass_53.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_akaze": 0.019076537000003668,
+        "matches_good_ratio_akaze": 0.053488372093023255,
+        "localization_error_l1_mean_akaze": 13.21860465116279,
+        "localization_error_l2_mean_akaze": 331.3209302325581
+    },
+    {
+        "image_name": "sandglass_6.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07067658699999413,
+        "matches_good_ratio_akaze": 0.020930232558139535,
+        "localization_error_l1_mean_akaze": 8.153488372093022,
+        "localization_error_l2_mean_akaze": 116.29302325581395
+    },
+    {
+        "image_name": "sandglass_7.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07387194000000363,
+        "matches_good_ratio_akaze": 0.01627906976744186,
+        "localization_error_l1_mean_akaze": 8.04186046511628,
+        "localization_error_l2_mean_akaze": 112.94883720930233
+    },
+    {
+        "image_name": "sandglass_8.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.07803077699999506,
+        "matches_good_ratio_akaze": 0.030232558139534883,
+        "localization_error_l1_mean_akaze": 8.92093023255814,
+        "localization_error_l2_mean_akaze": 149.53023255813955
+    },
+    {
+        "image_name": "sandglass_9.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_akaze": 0.0706084560000022,
+        "matches_good_ratio_akaze": 0.03255813953488372,
+        "localization_error_l1_mean_akaze": 9.413953488372092,
+        "localization_error_l2_mean_akaze": 163.89302325581394
+    }
+]

@@ -1,0 +1,1334 @@
+[
+    {
+        "image_name": "lintroller_1.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13447511700000803,
+        "matches_good_ratio_sift": 0.035789473684210524,
+        "localization_error_l1_mean_sift": 23.22382394891036,
+        "localization_error_l2_mean_sift": 1144.6329390795918
+    },
+    {
+        "image_name": "lintroller_10.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.12288797999998735,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 27.440438971268502,
+        "localization_error_l2_mean_sift": 1459.0911204257484
+    },
+    {
+        "image_name": "lintroller_11.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.06648132600000167,
+        "matches_good_ratio_sift": 0.02736842105263158,
+        "localization_error_l1_mean_sift": 20.1377318854081,
+        "localization_error_l2_mean_sift": 782.6973244514609
+    },
+    {
+        "image_name": "lintroller_12.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.07336097200000324,
+        "matches_good_ratio_sift": 0.04631578947368421,
+        "localization_error_l1_mean_sift": 22.044395254034747,
+        "localization_error_l2_mean_sift": 898.8050938863024
+    },
+    {
+        "image_name": "lintroller_13.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.06894141399999398,
+        "matches_good_ratio_sift": 0.014736842105263158,
+        "localization_error_l1_mean_sift": 18.833222784745065,
+        "localization_error_l2_mean_sift": 665.453707376244
+    },
+    {
+        "image_name": "lintroller_14.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13400902700000472,
+        "matches_good_ratio_sift": 0.07368421052631578,
+        "localization_error_l1_mean_sift": 33.08584877415707,
+        "localization_error_l2_mean_sift": 2338.23064312455
+    },
+    {
+        "image_name": "lintroller_15.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.06951521199999888,
+        "matches_good_ratio_sift": 0.031578947368421054,
+        "localization_error_l1_mean_sift": 22.29667385703639,
+        "localization_error_l2_mean_sift": 965.9519594227252
+    },
+    {
+        "image_name": "lintroller_16.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.15891593599999965,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 18.95385199295847,
+        "localization_error_l2_mean_sift": 700.2989244036928
+    },
+    {
+        "image_name": "lintroller_17.jpg",
+        "ratio": 0.75,
+        "pixels": 600000,
+        "thread_time_sift": 0.1259883660000014,
+        "matches_good_ratio_sift": 0.016842105263157894,
+        "localization_error_l1_mean_sift": 16.719527234529195,
+        "localization_error_l2_mean_sift": 508.263435962052
+    },
+    {
+        "image_name": "lintroller_18.jpg",
+        "ratio": 0.75,
+        "pixels": 480960,
+        "thread_time_sift": 0.09002904700000158,
+        "matches_good_ratio_sift": 0.08210526315789474,
+        "localization_error_l1_mean_sift": 28.349566843133225,
+        "localization_error_l2_mean_sift": 1685.252993559849
+    },
+    {
+        "image_name": "lintroller_19.jpg",
+        "ratio": 0.75,
+        "pixels": 666000,
+        "thread_time_sift": 0.11490732199999343,
+        "matches_good_ratio_sift": 0.06315789473684211,
+        "localization_error_l1_mean_sift": 26.182214612458882,
+        "localization_error_l2_mean_sift": 1313.0041710625835
+    },
+    {
+        "image_name": "lintroller_2.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.1442211899999961,
+        "matches_good_ratio_sift": 0.05263157894736842,
+        "localization_error_l1_mean_sift": 20.869440339740954,
+        "localization_error_l2_mean_sift": 898.3360143943731
+    },
+    {
+        "image_name": "lintroller_20.jpg",
+        "ratio": 0.75,
+        "pixels": 632160,
+        "thread_time_sift": 0.10411529900000005,
+        "matches_good_ratio_sift": 0.037894736842105266,
+        "localization_error_l1_mean_sift": 21.198441692151523,
+        "localization_error_l2_mean_sift": 880.1788188634628
+    },
+    {
+        "image_name": "lintroller_21.jpg",
+        "ratio": 0.75,
+        "pixels": 219382,
+        "thread_time_sift": 0.06062160099999403,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 17.34112982498972,
+        "localization_error_l2_mean_sift": 551.5492986121945
+    },
+    {
+        "image_name": "lintroller_22.jpg",
+        "ratio": 0.75,
+        "pixels": 333152,
+        "thread_time_sift": 0.062298510999994505,
+        "matches_good_ratio_sift": 0.02526315789473684,
+        "localization_error_l1_mean_sift": 23.64840646041067,
+        "localization_error_l2_mean_sift": 1142.833305871172
+    },
+    {
+        "image_name": "lintroller_23.jpg",
+        "ratio": 0.75,
+        "pixels": 607680,
+        "thread_time_sift": 0.11400050499999281,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 20.927841363204152,
+        "localization_error_l2_mean_sift": 839.2448431677689
+    },
+    {
+        "image_name": "lintroller_24.jpg",
+        "ratio": 0.75,
+        "pixels": 189476,
+        "thread_time_sift": 0.040074630999995975,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 24.10374371980366,
+        "localization_error_l2_mean_sift": 1164.2810336534453
+    },
+    {
+        "image_name": "lintroller_25.jpg",
+        "ratio": 0.75,
+        "pixels": 857000,
+        "thread_time_sift": 0.14775426699999628,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 26.35024079975329,
+        "localization_error_l2_mean_sift": 1325.6445442087106
+    },
+    {
+        "image_name": "lintroller_26.jpg",
+        "ratio": 0.75,
+        "pixels": 456000,
+        "thread_time_sift": 0.0852763259999989,
+        "matches_good_ratio_sift": 0.04,
+        "localization_error_l1_mean_sift": 15.666663473028885,
+        "localization_error_l2_mean_sift": 545.1044411511784
+    },
+    {
+        "image_name": "lintroller_27.jpg",
+        "ratio": 0.75,
+        "pixels": 452094,
+        "thread_time_sift": 0.10236412899999436,
+        "matches_good_ratio_sift": 0.02736842105263158,
+        "localization_error_l1_mean_sift": 18.39690868176912,
+        "localization_error_l2_mean_sift": 637.48052107623
+    },
+    {
+        "image_name": "lintroller_28.jpg",
+        "ratio": 0.75,
+        "pixels": 881118,
+        "thread_time_sift": 0.18341482900000017,
+        "matches_good_ratio_sift": 0.02736842105263158,
+        "localization_error_l1_mean_sift": 16.58246710526316,
+        "localization_error_l2_mean_sift": 561.8018147954592
+    },
+    {
+        "image_name": "lintroller_29.jpg",
+        "ratio": 0.75,
+        "pixels": 583647,
+        "thread_time_sift": 0.09655878199998824,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 20.98418829666941,
+        "localization_error_l2_mean_sift": 956.4854327316601
+    },
+    {
+        "image_name": "lintroller_3.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.05962895700000104,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 25.100585295024672,
+        "localization_error_l2_mean_sift": 1175.016619633711
+    },
+    {
+        "image_name": "lintroller_30.jpg",
+        "ratio": 0.75,
+        "pixels": 486000,
+        "thread_time_sift": 0.09853899399999477,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 17.700892253674958,
+        "localization_error_l2_mean_sift": 636.4530762210318
+    },
+    {
+        "image_name": "lintroller_31.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.1538206589999902,
+        "matches_good_ratio_sift": 0.029473684210526315,
+        "localization_error_l1_mean_sift": 16.536878461335835,
+        "localization_error_l2_mean_sift": 535.4521102877776
+    },
+    {
+        "image_name": "lintroller_32.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.12118268099999341,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 26.219112677323192,
+        "localization_error_l2_mean_sift": 1351.8437542858005
+    },
+    {
+        "image_name": "lintroller_33.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13479612700000132,
+        "matches_good_ratio_sift": 0.04,
+        "localization_error_l1_mean_sift": 20.47795798853824,
+        "localization_error_l2_mean_sift": 775.8396363756054
+    },
+    {
+        "image_name": "lintroller_34.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.10258159199999284,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 28.037415273565994,
+        "localization_error_l2_mean_sift": 1536.6253633050567
+    },
+    {
+        "image_name": "lintroller_35.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.15100131799999872,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 17.37336689196135,
+        "localization_error_l2_mean_sift": 632.4962986413339
+    },
+    {
+        "image_name": "lintroller_36.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.13688140299998963,
+        "matches_good_ratio_sift": 0.00631578947368421,
+        "localization_error_l1_mean_sift": 15.55279844585218,
+        "localization_error_l2_mean_sift": 503.13941519476754
+    },
+    {
+        "image_name": "lintroller_37.jpg",
+        "ratio": 0.75,
+        "pixels": 600000,
+        "thread_time_sift": 0.12824190599999952,
+        "matches_good_ratio_sift": 0.06526315789473684,
+        "localization_error_l1_mean_sift": 21.755648153204667,
+        "localization_error_l2_mean_sift": 1232.74314560588
+    },
+    {
+        "image_name": "lintroller_38.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.14320299300000272,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 18.09025435598273,
+        "localization_error_l2_mean_sift": 658.1274068303303
+    },
+    {
+        "image_name": "lintroller_39.jpg",
+        "ratio": 0.75,
+        "pixels": 952000,
+        "thread_time_sift": 0.19418340199999307,
+        "matches_good_ratio_sift": 0.07789473684210527,
+        "localization_error_l1_mean_sift": 23.122096662019427,
+        "localization_error_l2_mean_sift": 1146.241312739433
+    },
+    {
+        "image_name": "lintroller_4.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.11734241499999598,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 19.743243440326893,
+        "localization_error_l2_mean_sift": 702.8277441588365
+    },
+    {
+        "image_name": "lintroller_40.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.06410923100000332,
+        "matches_good_ratio_sift": 0.014736842105263158,
+        "localization_error_l1_mean_sift": 19.988541661312706,
+        "localization_error_l2_mean_sift": 798.1782681781552
+    },
+    {
+        "image_name": "lintroller_41.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.07657653500000094,
+        "matches_good_ratio_sift": 0.02736842105263158,
+        "localization_error_l1_mean_sift": 18.122123091848273,
+        "localization_error_l2_mean_sift": 604.8731643747183
+    },
+    {
+        "image_name": "lintroller_42.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.07026051699999414,
+        "matches_good_ratio_sift": 0.10947368421052632,
+        "localization_error_l1_mean_sift": 29.21530861302426,
+        "localization_error_l2_mean_sift": 1590.9765218544958
+    },
+    {
+        "image_name": "lintroller_43.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.14331910899998945,
+        "matches_good_ratio_sift": 0.029473684210526315,
+        "localization_error_l1_mean_sift": 16.88389303910105,
+        "localization_error_l2_mean_sift": 571.9565093124667
+    },
+    {
+        "image_name": "lintroller_44.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.12181163200000356,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 20.385101318359375,
+        "localization_error_l2_mean_sift": 958.789627014878
+    },
+    {
+        "image_name": "lintroller_45.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.14096433099999217,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 17.989343269749693,
+        "localization_error_l2_mean_sift": 644.3258454662248
+    },
+    {
+        "image_name": "lintroller_46.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.1362076839999986,
+        "matches_good_ratio_sift": 0.061052631578947365,
+        "localization_error_l1_mean_sift": 28.55028619063528,
+        "localization_error_l2_mean_sift": 1638.265082309931
+    },
+    {
+        "image_name": "lintroller_47.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.05663427000000354,
+        "matches_good_ratio_sift": 0.010526315789473684,
+        "localization_error_l1_mean_sift": 26.20120425575658,
+        "localization_error_l2_mean_sift": 1189.1375226250664
+    },
+    {
+        "image_name": "lintroller_48.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13202167400000064,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 21.06747498361688,
+        "localization_error_l2_mean_sift": 1220.5089843400167
+    },
+    {
+        "image_name": "lintroller_49.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13987971599999582,
+        "matches_good_ratio_sift": 0.029473684210526315,
+        "localization_error_l1_mean_sift": 17.900657862613077,
+        "localization_error_l2_mean_sift": 583.6461131220132
+    },
+    {
+        "image_name": "lintroller_5.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.12158339599999124,
+        "matches_good_ratio_sift": 0.05894736842105263,
+        "localization_error_l1_mean_sift": 21.436504588880037,
+        "localization_error_l2_mean_sift": 931.813142924077
+    },
+    {
+        "image_name": "lintroller_50.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.1438499329999985,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 18.1412573724044,
+        "localization_error_l2_mean_sift": 600.7765032068955
+    },
+    {
+        "image_name": "lintroller_51.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_sift": 0.03088314299999695,
+        "matches_good_ratio_sift": 0.05473684210526316,
+        "localization_error_l1_mean_sift": 23.900168537340665,
+        "localization_error_l2_mean_sift": 1049.1181534782704
+    },
+    {
+        "image_name": "lintroller_52.jpg",
+        "ratio": 0.75,
+        "pixels": 307200,
+        "thread_time_sift": 0.0725644789999933,
+        "matches_good_ratio_sift": 0.01263157894736842,
+        "localization_error_l1_mean_sift": 16.66070416902241,
+        "localization_error_l2_mean_sift": 559.9094230542757
+    },
+    {
+        "image_name": "lintroller_53.jpg",
+        "ratio": 0.75,
+        "pixels": 600000,
+        "thread_time_sift": 0.10783775599999501,
+        "matches_good_ratio_sift": 0.035789473684210524,
+        "localization_error_l1_mean_sift": 27.31619973433645,
+        "localization_error_l2_mean_sift": 1453.8620071112462
+    },
+    {
+        "image_name": "lintroller_6.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.14110687200000882,
+        "matches_good_ratio_sift": 0.04631578947368421,
+        "localization_error_l1_mean_sift": 20.421245454487046,
+        "localization_error_l2_mean_sift": 867.8060390824716
+    },
+    {
+        "image_name": "lintroller_7.jpg",
+        "ratio": 0.75,
+        "pixels": 691200,
+        "thread_time_sift": 0.12893696700000135,
+        "matches_good_ratio_sift": 0.06947368421052631,
+        "localization_error_l1_mean_sift": 23.00226424367804,
+        "localization_error_l2_mean_sift": 993.4203468166015
+    },
+    {
+        "image_name": "lintroller_8.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_sift": 0.023927095999994208,
+        "matches_good_ratio_sift": 0.06315789473684211,
+        "localization_error_l1_mean_sift": 26.346932196366158,
+        "localization_error_l2_mean_sift": 1226.060127612781
+    },
+    {
+        "image_name": "lintroller_9.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_sift": 0.02680440399998929,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 22.92316809403269,
+        "localization_error_l2_mean_sift": 1050.1709713381879
+    },
+    {
+        "image_name": "nothing_1.jpg",
+        "ratio": 0.75,
+        "pixels": 420938,
+        "thread_time_sift": 0.08563498599998809,
+        "matches_good_ratio_sift": 0.029473684210526315,
+        "localization_error_l1_mean_sift": 19.872136238499692,
+        "localization_error_l2_mean_sift": 743.0915553870991
+    },
+    {
+        "image_name": "nothing_10.jpg",
+        "ratio": 0.75,
+        "pixels": 49152,
+        "thread_time_sift": 0.018299779000003014,
+        "matches_good_ratio_sift": 0.04631578947368421,
+        "localization_error_l1_mean_sift": 26.63840393066406,
+        "localization_error_l2_mean_sift": 1307.2117125928553
+    },
+    {
+        "image_name": "nothing_11.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.0955390869999917,
+        "matches_good_ratio_sift": 0.02526315789473684,
+        "localization_error_l1_mean_sift": 21.745427213969982,
+        "localization_error_l2_mean_sift": 1029.4394960075501
+    },
+    {
+        "image_name": "nothing_12.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.09332873300000699,
+        "matches_good_ratio_sift": 0.04631578947368421,
+        "localization_error_l1_mean_sift": 28.881129792865956,
+        "localization_error_l2_mean_sift": 1459.9987596352682
+    },
+    {
+        "image_name": "nothing_13.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.10216853000000015,
+        "matches_good_ratio_sift": 0.04,
+        "localization_error_l1_mean_sift": 21.21936783640008,
+        "localization_error_l2_mean_sift": 948.5165756551294
+    },
+    {
+        "image_name": "nothing_15.jpg",
+        "ratio": 0.75,
+        "pixels": 55696,
+        "thread_time_sift": 0.021001937000008297,
+        "matches_good_ratio_sift": 0.04,
+        "localization_error_l1_mean_sift": 23.673080701326068,
+        "localization_error_l2_mean_sift": 1109.4076510588595
+    },
+    {
+        "image_name": "nothing_16.jpg",
+        "ratio": 0.75,
+        "pixels": 419628,
+        "thread_time_sift": 0.07585030300000994,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 27.026483419317948,
+        "localization_error_l2_mean_sift": 1501.893096417926
+    },
+    {
+        "image_name": "nothing_17.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.16261102999999366,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 15.094963411030017,
+        "localization_error_l2_mean_sift": 448.44574947045186
+    },
+    {
+        "image_name": "nothing_18.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.10551909199999443,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 23.07136889005962,
+        "localization_error_l2_mean_sift": 1038.0813752094487
+    },
+    {
+        "image_name": "nothing_19.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.10115012500000375,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 21.710970507170025,
+        "localization_error_l2_mean_sift": 968.2195368842887
+    },
+    {
+        "image_name": "nothing_2.jpg",
+        "ratio": 0.75,
+        "pixels": 62458,
+        "thread_time_sift": 0.022774299999994696,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 20.252728319670023,
+        "localization_error_l2_mean_sift": 754.5345501706643
+    },
+    {
+        "image_name": "nothing_20.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.09468037999999979,
+        "matches_good_ratio_sift": 0.05052631578947368,
+        "localization_error_l1_mean_sift": 27.100575882761103,
+        "localization_error_l2_mean_sift": 1535.9860441864598
+    },
+    {
+        "image_name": "nothing_21.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.11923488399999371,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 16.06063904611688,
+        "localization_error_l2_mean_sift": 525.8849742354315
+    },
+    {
+        "image_name": "nothing_22.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.09951366099998893,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 20.968680066560445,
+        "localization_error_l2_mean_sift": 803.8720978269337
+    },
+    {
+        "image_name": "nothing_23.jpg",
+        "ratio": 0.75,
+        "pixels": 561438,
+        "thread_time_sift": 0.11050297500000283,
+        "matches_good_ratio_sift": 0.008421052631578947,
+        "localization_error_l1_mean_sift": 15.39177814684416,
+        "localization_error_l2_mean_sift": 528.1026099639099
+    },
+    {
+        "image_name": "nothing_24.jpg",
+        "ratio": 0.75,
+        "pixels": 420938,
+        "thread_time_sift": 0.07687805099999423,
+        "matches_good_ratio_sift": 0.05473684210526316,
+        "localization_error_l1_mean_sift": 31.321240459241366,
+        "localization_error_l2_mean_sift": 1854.054484475776
+    },
+    {
+        "image_name": "nothing_25.jpg",
+        "ratio": 0.75,
+        "pixels": 83544,
+        "thread_time_sift": 0.021869370999993976,
+        "matches_good_ratio_sift": 0.07789473684210527,
+        "localization_error_l1_mean_sift": 36.78350147448088,
+        "localization_error_l2_mean_sift": 2507.6835060131716
+    },
+    {
+        "image_name": "nothing_26.jpg",
+        "ratio": 0.75,
+        "pixels": 86848,
+        "thread_time_sift": 0.024111679000000663,
+        "matches_good_ratio_sift": 0.010526315789473684,
+        "localization_error_l1_mean_sift": 22.680870778937088,
+        "localization_error_l2_mean_sift": 937.0882777054387
+    },
+    {
+        "image_name": "nothing_27.jpg",
+        "ratio": 0.75,
+        "pixels": 69620,
+        "thread_time_sift": 0.023596237999996106,
+        "matches_good_ratio_sift": 0.06526315789473684,
+        "localization_error_l1_mean_sift": 27.001995399876645,
+        "localization_error_l2_mean_sift": 1438.489731585507
+    },
+    {
+        "image_name": "nothing_28.jpg",
+        "ratio": 0.75,
+        "pixels": 68204,
+        "thread_time_sift": 0.02278237100000524,
+        "matches_good_ratio_sift": 0.02526315789473684,
+        "localization_error_l1_mean_sift": 24.79488605700041,
+        "localization_error_l2_mean_sift": 1174.1545072033555
+    },
+    {
+        "image_name": "nothing_29.jpg",
+        "ratio": 0.75,
+        "pixels": 69148,
+        "thread_time_sift": 0.02129145899999685,
+        "matches_good_ratio_sift": 0.05473684210526316,
+        "localization_error_l1_mean_sift": 28.019865947522614,
+        "localization_error_l2_mean_sift": 1767.1838151271495
+    },
+    {
+        "image_name": "nothing_3.jpg",
+        "ratio": 0.75,
+        "pixels": 25228,
+        "thread_time_sift": 0.014886312000001567,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 29.575228978207235,
+        "localization_error_l2_mean_sift": 1588.9383525255137
+    },
+    {
+        "image_name": "nothing_30.jpg",
+        "ratio": 0.75,
+        "pixels": 55696,
+        "thread_time_sift": 0.02175489900000116,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 25.102583039936267,
+        "localization_error_l2_mean_sift": 1074.7652732223721
+    },
+    {
+        "image_name": "nothing_31.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_sift": 0.026236736000001315,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 28.93251858359889,
+        "localization_error_l2_mean_sift": 1845.7875945712674
+    },
+    {
+        "image_name": "nothing_32.jpg",
+        "ratio": 0.75,
+        "pixels": 83544,
+        "thread_time_sift": 0.028369167999997558,
+        "matches_good_ratio_sift": 0.08,
+        "localization_error_l1_mean_sift": 28.386818173057154,
+        "localization_error_l2_mean_sift": 1398.436740479259
+    },
+    {
+        "image_name": "nothing_33.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_sift": 0.02894595399999389,
+        "matches_good_ratio_sift": 0.061052631578947365,
+        "localization_error_l1_mean_sift": 26.042352985582852,
+        "localization_error_l2_mean_sift": 1533.4166785454656
+    },
+    {
+        "image_name": "nothing_34.jpg",
+        "ratio": 0.75,
+        "pixels": 68385,
+        "thread_time_sift": 0.022579160000006482,
+        "matches_good_ratio_sift": 0.016842105263157894,
+        "localization_error_l1_mean_sift": 21.50742457339638,
+        "localization_error_l2_mean_sift": 806.5696167886617
+    },
+    {
+        "image_name": "nothing_35.jpg",
+        "ratio": 0.75,
+        "pixels": 54755,
+        "thread_time_sift": 0.018074919000000023,
+        "matches_good_ratio_sift": 0.06315789473684211,
+        "localization_error_l1_mean_sift": 28.447363650673314,
+        "localization_error_l2_mean_sift": 1830.5504583007175
+    },
+    {
+        "image_name": "nothing_36.jpg",
+        "ratio": 0.75,
+        "pixels": 64664,
+        "thread_time_sift": 0.020701397000010502,
+        "matches_good_ratio_sift": 0.02526315789473684,
+        "localization_error_l1_mean_sift": 31.564606419613487,
+        "localization_error_l2_mean_sift": 1826.1627803734434
+    },
+    {
+        "image_name": "nothing_37.jpg",
+        "ratio": 0.75,
+        "pixels": 54044,
+        "thread_time_sift": 0.018186199000012948,
+        "matches_good_ratio_sift": 0.016842105263157894,
+        "localization_error_l1_mean_sift": 27.53076062654194,
+        "localization_error_l2_mean_sift": 1412.270190410207
+    },
+    {
+        "image_name": "nothing_38.jpg",
+        "ratio": 0.75,
+        "pixels": 84488,
+        "thread_time_sift": 0.025205365999994456,
+        "matches_good_ratio_sift": 0.029473684210526315,
+        "localization_error_l1_mean_sift": 22.107116217362254,
+        "localization_error_l2_mean_sift": 943.5554029277749
+    },
+    {
+        "image_name": "nothing_39.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_sift": 0.028682926000001885,
+        "matches_good_ratio_sift": 0.029473684210526315,
+        "localization_error_l1_mean_sift": 24.311411100688733,
+        "localization_error_l2_mean_sift": 1151.860929789398
+    },
+    {
+        "image_name": "nothing_4.jpg",
+        "ratio": 0.75,
+        "pixels": 76800,
+        "thread_time_sift": 0.02348512800000435,
+        "matches_good_ratio_sift": 0.021052631578947368,
+        "localization_error_l1_mean_sift": 36.06160220497533,
+        "localization_error_l2_mean_sift": 2262.1509130032478
+    },
+    {
+        "image_name": "nothing_40.jpg",
+        "ratio": 0.75,
+        "pixels": 83308,
+        "thread_time_sift": 0.02559902400000169,
+        "matches_good_ratio_sift": 0.018947368421052633,
+        "localization_error_l1_mean_sift": 20.516570948550577,
+        "localization_error_l2_mean_sift": 791.3936274903328
+    },
+    {
+        "image_name": "nothing_41.jpg",
+        "ratio": 0.75,
+        "pixels": 83544,
+        "thread_time_sift": 0.028193238000000065,
+        "matches_good_ratio_sift": 0.016842105263157894,
+        "localization_error_l1_mean_sift": 21.43958884791324,
+        "localization_error_l2_mean_sift": 854.3794631805317
+    },
+    {
+        "image_name": "nothing_42.jpg",
+        "ratio": 0.75,
+        "pixels": 55460,
+        "thread_time_sift": 0.019527445999997894,
+        "matches_good_ratio_sift": 0.13894736842105262,
+        "localization_error_l1_mean_sift": 43.41060855263158,
+        "localization_error_l2_mean_sift": 3787.903118868884
+    },
+    {
+        "image_name": "nothing_43.jpg",
+        "ratio": 0.75,
+        "pixels": 74104,
+        "thread_time_sift": 0.02707601299999851,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 32.799269248560854,
+        "localization_error_l2_mean_sift": 2056.7098199314037
+    },
+    {
+        "image_name": "nothing_44.jpg",
+        "ratio": 0.75,
+        "pixels": 82600,
+        "thread_time_sift": 0.025013839999999732,
+        "matches_good_ratio_sift": 0.02736842105263158,
+        "localization_error_l1_mean_sift": 20.775881861636513,
+        "localization_error_l2_mean_sift": 813.7298091192504
+    },
+    {
+        "image_name": "nothing_45.jpg",
+        "ratio": 0.75,
+        "pixels": 61596,
+        "thread_time_sift": 0.02448024099999202,
+        "matches_good_ratio_sift": 0.04,
+        "localization_error_l1_mean_sift": 23.49619754188939,
+        "localization_error_l2_mean_sift": 1249.9525565085155
+    },
+    {
+        "image_name": "nothing_46.jpg",
+        "ratio": 0.75,
+        "pixels": 98884,
+        "thread_time_sift": 0.03138813099999993,
+        "matches_good_ratio_sift": 0.018947368421052633,
+        "localization_error_l1_mean_sift": 20.60915133827611,
+        "localization_error_l2_mean_sift": 732.2988196066862
+    },
+    {
+        "image_name": "nothing_47.jpg",
+        "ratio": 0.75,
+        "pixels": 88264,
+        "thread_time_sift": 0.02655131099999153,
+        "matches_good_ratio_sift": 0.05473684210526316,
+        "localization_error_l1_mean_sift": 27.64355189273232,
+        "localization_error_l2_mean_sift": 1531.9526771022784
+    },
+    {
+        "image_name": "nothing_48.jpg",
+        "ratio": 0.75,
+        "pixels": 72145,
+        "thread_time_sift": 0.025873476000001006,
+        "matches_good_ratio_sift": 0.014736842105263158,
+        "localization_error_l1_mean_sift": 21.32124078047903,
+        "localization_error_l2_mean_sift": 877.1378077119379
+    },
+    {
+        "image_name": "nothing_49.jpg",
+        "ratio": 0.75,
+        "pixels": 98230,
+        "thread_time_sift": 0.0297953209999946,
+        "matches_good_ratio_sift": 0.06526315789473684,
+        "localization_error_l1_mean_sift": 27.343995907432156,
+        "localization_error_l2_mean_sift": 1535.0502356831653
+    },
+    {
+        "image_name": "nothing_5.jpg",
+        "ratio": 0.75,
+        "pixels": 480000,
+        "thread_time_sift": 0.08862699499999849,
+        "matches_good_ratio_sift": 0.031578947368421054,
+        "localization_error_l1_mean_sift": 21.540783562911184,
+        "localization_error_l2_mean_sift": 939.9613614204301
+    },
+    {
+        "image_name": "nothing_50.jpg",
+        "ratio": 0.75,
+        "pixels": 82720,
+        "thread_time_sift": 0.027728336999999215,
+        "matches_good_ratio_sift": 0.06526315789473684,
+        "localization_error_l1_mean_sift": 25.64064567164371,
+        "localization_error_l2_mean_sift": 1358.665610398909
+    },
+    {
+        "image_name": "nothing_51.jpg",
+        "ratio": 0.75,
+        "pixels": 98648,
+        "thread_time_sift": 0.026865915000001905,
+        "matches_good_ratio_sift": 0.061052631578947365,
+        "localization_error_l1_mean_sift": 33.29654632568359,
+        "localization_error_l2_mean_sift": 2007.8886519391438
+    },
+    {
+        "image_name": "nothing_52.jpg",
+        "ratio": 0.75,
+        "pixels": 80476,
+        "thread_time_sift": 0.029538649000002692,
+        "matches_good_ratio_sift": 0.05263157894736842,
+        "localization_error_l1_mean_sift": 25.264776514956825,
+        "localization_error_l2_mean_sift": 1185.7900645836332
+    },
+    {
+        "image_name": "nothing_53.jpg",
+        "ratio": 0.75,
+        "pixels": 103840,
+        "thread_time_sift": 0.031110182000006148,
+        "matches_good_ratio_sift": 0.02736842105263158,
+        "localization_error_l1_mean_sift": 24.762916468570108,
+        "localization_error_l2_mean_sift": 1103.5956336593047
+    },
+    {
+        "image_name": "nothing_6.jpg",
+        "ratio": 0.75,
+        "pixels": 136640,
+        "thread_time_sift": 0.031227428999997642,
+        "matches_good_ratio_sift": 0.0863157894736842,
+        "localization_error_l1_mean_sift": 40.37647830360814,
+        "localization_error_l2_mean_sift": 2857.860245775784
+    },
+    {
+        "image_name": "nothing_7.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_sift": 0.01809529300000179,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 30.43192347476357,
+        "localization_error_l2_mean_sift": 1965.4248122747913
+    },
+    {
+        "image_name": "nothing_8.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_sift": 0.017629270000000474,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 25.516512354800575,
+        "localization_error_l2_mean_sift": 1211.569848555621
+    },
+    {
+        "image_name": "nothing_9.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_sift": 0.017635733999995296,
+        "matches_good_ratio_sift": 0.031578947368421054,
+        "localization_error_l1_mean_sift": 25.815638379548727,
+        "localization_error_l2_mean_sift": 1346.0253188945471
+    },
+    {
+        "image_name": "sandglass_1.jpg",
+        "ratio": 0.75,
+        "pixels": 53400,
+        "thread_time_sift": 0.018961872999994966,
+        "matches_good_ratio_sift": 0.08842105263157894,
+        "localization_error_l1_mean_sift": 34.339104405453334,
+        "localization_error_l2_mean_sift": 2196.667694895327
+    },
+    {
+        "image_name": "sandglass_10.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08737034600000015,
+        "matches_good_ratio_sift": 0.035789473684210524,
+        "localization_error_l1_mean_sift": 23.659368286132814,
+        "localization_error_l2_mean_sift": 1247.059709218279
+    },
+    {
+        "image_name": "sandglass_11.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08989353900000197,
+        "matches_good_ratio_sift": 0.09473684210526316,
+        "localization_error_l1_mean_sift": 31.259529772306742,
+        "localization_error_l2_mean_sift": 2270.8160989009225
+    },
+    {
+        "image_name": "sandglass_12.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08773673900000745,
+        "matches_good_ratio_sift": 0.10105263157894737,
+        "localization_error_l1_mean_sift": 33.268455810546875,
+        "localization_error_l2_mean_sift": 2276.427573624103
+    },
+    {
+        "image_name": "sandglass_13.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08563845400000503,
+        "matches_good_ratio_sift": 0.12631578947368421,
+        "localization_error_l1_mean_sift": 38.8362452135588,
+        "localization_error_l2_mean_sift": 3279.257030078206
+    },
+    {
+        "image_name": "sandglass_14.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08801261199999999,
+        "matches_good_ratio_sift": 0.0968421052631579,
+        "localization_error_l1_mean_sift": 33.15287787186472,
+        "localization_error_l2_mean_sift": 2075.865014120493
+    },
+    {
+        "image_name": "sandglass_15.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08605576000000781,
+        "matches_good_ratio_sift": 0.16210526315789472,
+        "localization_error_l1_mean_sift": 41.7727302631579,
+        "localization_error_l2_mean_sift": 4091.2854170908504
+    },
+    {
+        "image_name": "sandglass_16.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08393988900000693,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 34.78098448100843,
+        "localization_error_l2_mean_sift": 3451.3321091621965
+    },
+    {
+        "image_name": "sandglass_17.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08346242499999335,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 30.571819570440994,
+        "localization_error_l2_mean_sift": 1656.6413082659597
+    },
+    {
+        "image_name": "sandglass_18.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08794777299999623,
+        "matches_good_ratio_sift": 0.10736842105263159,
+        "localization_error_l1_mean_sift": 59.54446664910567,
+        "localization_error_l2_mean_sift": 5557.424001041866
+    },
+    {
+        "image_name": "sandglass_19.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08522260200000176,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 29.463394389905428,
+        "localization_error_l2_mean_sift": 1563.6930559177893
+    },
+    {
+        "image_name": "sandglass_2.jpg",
+        "ratio": 0.75,
+        "pixels": 454894,
+        "thread_time_sift": 0.09134255299998983,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 26.187676857396177,
+        "localization_error_l2_mean_sift": 1284.6465318970895
+    },
+    {
+        "image_name": "sandglass_20.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.10086953200000437,
+        "matches_good_ratio_sift": 0.11157894736842106,
+        "localization_error_l1_mean_sift": 34.76679213674445,
+        "localization_error_l2_mean_sift": 2707.649002409933
+    },
+    {
+        "image_name": "sandglass_21.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08602709999999547,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 30.405533190275495,
+        "localization_error_l2_mean_sift": 1732.6579262219605
+    },
+    {
+        "image_name": "sandglass_22.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08411174600000493,
+        "matches_good_ratio_sift": 0.05894736842105263,
+        "localization_error_l1_mean_sift": 33.28255281147204,
+        "localization_error_l2_mean_sift": 2024.752930381451
+    },
+    {
+        "image_name": "sandglass_23.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08251815900000281,
+        "matches_good_ratio_sift": 0.13263157894736843,
+        "localization_error_l1_mean_sift": 55.28910528885691,
+        "localization_error_l2_mean_sift": 5092.570354459036
+    },
+    {
+        "image_name": "sandglass_24.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08425389800000005,
+        "matches_good_ratio_sift": 0.042105263157894736,
+        "localization_error_l1_mean_sift": 30.91576997455798,
+        "localization_error_l2_mean_sift": 1967.0433707043926
+    },
+    {
+        "image_name": "sandglass_25.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08518503099999464,
+        "matches_good_ratio_sift": 0.04842105263157895,
+        "localization_error_l1_mean_sift": 30.830899465460526,
+        "localization_error_l2_mean_sift": 1914.9043777772235
+    },
+    {
+        "image_name": "sandglass_26.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08458081000000561,
+        "matches_good_ratio_sift": 0.04421052631578947,
+        "localization_error_l1_mean_sift": 32.000360171669406,
+        "localization_error_l2_mean_sift": 1857.7865460787566
+    },
+    {
+        "image_name": "sandglass_27.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08642277399999898,
+        "matches_good_ratio_sift": 0.08210526315789474,
+        "localization_error_l1_mean_sift": 39.60201438502261,
+        "localization_error_l2_mean_sift": 3983.624060105381
+    },
+    {
+        "image_name": "sandglass_28.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08291263499999957,
+        "matches_good_ratio_sift": 0.037894736842105266,
+        "localization_error_l1_mean_sift": 48.61335050884046,
+        "localization_error_l2_mean_sift": 3805.7308160250946
+    },
+    {
+        "image_name": "sandglass_29.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08491180800000109,
+        "matches_good_ratio_sift": 0.09263157894736843,
+        "localization_error_l1_mean_sift": 39.06809367932772,
+        "localization_error_l2_mean_sift": 2772.103266159178
+    },
+    {
+        "image_name": "sandglass_3.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08322512099999813,
+        "matches_good_ratio_sift": 0.06736842105263158,
+        "localization_error_l1_mean_sift": 27.510198267886512,
+        "localization_error_l2_mean_sift": 1593.279010291411
+    },
+    {
+        "image_name": "sandglass_30.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.0843599429999955,
+        "matches_good_ratio_sift": 0.09263157894736843,
+        "localization_error_l1_mean_sift": 49.42117348118832,
+        "localization_error_l2_mean_sift": 4883.223479459778
+    },
+    {
+        "image_name": "sandglass_31.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08702262699999608,
+        "matches_good_ratio_sift": 0.07578947368421053,
+        "localization_error_l1_mean_sift": 35.06001596551192,
+        "localization_error_l2_mean_sift": 2611.854118583609
+    },
+    {
+        "image_name": "sandglass_32.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08728076399999907,
+        "matches_good_ratio_sift": 0.08,
+        "localization_error_l1_mean_sift": 37.31008458187706,
+        "localization_error_l2_mean_sift": 3629.236018968874
+    },
+    {
+        "image_name": "sandglass_33.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.0916247300000066,
+        "matches_good_ratio_sift": 0.1031578947368421,
+        "localization_error_l1_mean_sift": 38.36639346474095,
+        "localization_error_l2_mean_sift": 2988.041887137035
+    },
+    {
+        "image_name": "sandglass_34.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08667158699999788,
+        "matches_good_ratio_sift": 0.12,
+        "localization_error_l1_mean_sift": 35.420529046309625,
+        "localization_error_l2_mean_sift": 2490.153745990493
+    },
+    {
+        "image_name": "sandglass_35.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.0857643700000068,
+        "matches_good_ratio_sift": 0.06736842105263158,
+        "localization_error_l1_mean_sift": 29.013758785850122,
+        "localization_error_l2_mean_sift": 1843.7144969639985
+    },
+    {
+        "image_name": "sandglass_4.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08492920400000514,
+        "matches_good_ratio_sift": 0.08210526315789474,
+        "localization_error_l1_mean_sift": 30.366297784102592,
+        "localization_error_l2_mean_sift": 2260.69999823263
+    },
+    {
+        "image_name": "sandglass_46.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.09074854499999674,
+        "matches_good_ratio_sift": 0.031578947368421054,
+        "localization_error_l1_mean_sift": 20.242366349069695,
+        "localization_error_l2_mean_sift": 815.3362155834651
+    },
+    {
+        "image_name": "sandglass_47.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.090390057999997,
+        "matches_good_ratio_sift": 0.031578947368421054,
+        "localization_error_l1_mean_sift": 20.454883438913445,
+        "localization_error_l2_mean_sift": 812.4321201111741
+    },
+    {
+        "image_name": "sandglass_48.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.1285331790000015,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 25.687870370965253,
+        "localization_error_l2_mean_sift": 1229.5171165687223
+    },
+    {
+        "image_name": "sandglass_49.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13175276399999802,
+        "matches_good_ratio_sift": 0.04842105263157895,
+        "localization_error_l1_mean_sift": 20.827841523822986,
+        "localization_error_l2_mean_sift": 855.2880703081719
+    },
+    {
+        "image_name": "sandglass_5.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08381964499999128,
+        "matches_good_ratio_sift": 0.03368421052631579,
+        "localization_error_l1_mean_sift": 26.301009505422492,
+        "localization_error_l2_mean_sift": 1362.9211806069236
+    },
+    {
+        "image_name": "sandglass_50.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.13210459499998706,
+        "matches_good_ratio_sift": 0.04,
+        "localization_error_l1_mean_sift": 23.20723134091026,
+        "localization_error_l2_mean_sift": 1163.5328924511293
+    },
+    {
+        "image_name": "sandglass_51.jpg",
+        "ratio": 0.75,
+        "pixels": 129600,
+        "thread_time_sift": 0.029192719000008083,
+        "matches_good_ratio_sift": 0.02526315789473684,
+        "localization_error_l1_mean_sift": 25.57248933490954,
+        "localization_error_l2_mean_sift": 1145.201393498191
+    },
+    {
+        "image_name": "sandglass_52.jpg",
+        "ratio": 0.75,
+        "pixels": 750000,
+        "thread_time_sift": 0.14074804199999846,
+        "matches_good_ratio_sift": 0.023157894736842106,
+        "localization_error_l1_mean_sift": 18.030583656712583,
+        "localization_error_l2_mean_sift": 603.769788357095
+    },
+    {
+        "image_name": "sandglass_53.jpg",
+        "ratio": 0.75,
+        "pixels": 36864,
+        "thread_time_sift": 0.020253752999991548,
+        "matches_good_ratio_sift": 0.06526315789473684,
+        "localization_error_l1_mean_sift": 33.45197201377467,
+        "localization_error_l2_mean_sift": 1968.3022836608989
+    },
+    {
+        "image_name": "sandglass_6.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08886522700001365,
+        "matches_good_ratio_sift": 0.04842105263157895,
+        "localization_error_l1_mean_sift": 23.524038005628086,
+        "localization_error_l2_mean_sift": 1049.9203565753728
+    },
+    {
+        "image_name": "sandglass_7.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.0871926119999955,
+        "matches_good_ratio_sift": 0.08,
+        "localization_error_l1_mean_sift": 31.791145678068464,
+        "localization_error_l2_mean_sift": 2084.611785096986
+    },
+    {
+        "image_name": "sandglass_8.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.08277127699999198,
+        "matches_good_ratio_sift": 0.05263157894736842,
+        "localization_error_l1_mean_sift": 28.510805792557566,
+        "localization_error_l2_mean_sift": 1652.8517817127997
+    },
+    {
+        "image_name": "sandglass_9.jpg",
+        "ratio": 0.75,
+        "pixels": 455400,
+        "thread_time_sift": 0.0825747610000036,
+        "matches_good_ratio_sift": 0.11368421052631579,
+        "localization_error_l1_mean_sift": 41.37383747301604,
+        "localization_error_l2_mean_sift": 3542.6562521613077
+    }
+]
