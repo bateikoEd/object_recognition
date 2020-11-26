@@ -33,29 +33,29 @@ import cv2
 # ------------------------------------------
 # writing video
 
-cap = cv2.VideoCapture('video.mp4')
-
-fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('output.avi',fourcc, 20.0, (640,480))
-
-while(cap.isOpened()):
-    ret, frame = cap.read()
-    if ret==True:
-        frame = cv2.flip(frame,0)
-
-        # write the flipped frame
-        out.write(frame)
-
-        cv2.imshow('frame',frame)
-        if cv2.waitKey(1) & 0xFF == ord('q'):
-            break
-    else:
-        break
-
-# Release everything if job is finished
-cap.release()
-out.release()
-cv2.destroyAllWindows()
+# cap = cv2.VideoCapture('video.mp4')
+#
+# fourcc = cv2.VideoWriter_fourcc(*'XVID')
+# out = cv2.VideoWriter('output.avi',fourcc, 20.0, (640,480))
+#
+# while(cap.isOpened()):
+#     ret, frame = cap.read()
+#     if ret==True:
+#         frame = cv2.flip(frame,0)
+#
+#         # write the flipped frame
+#         out.write(frame)
+#
+#         cv2.imshow('frame',frame)
+#         if cv2.waitKey(1) & 0xFF == ord('q'):
+#             break
+#     else:
+#         break
+#
+# # Release everything if job is finished
+# cap.release()
+# out.release()
+# cv2.destroyAllWindows()
 
 # ---------------------------------------
 # reading and writing video from some period
@@ -95,3 +95,24 @@ cv2.destroyAllWindows()
 # vidcap.release()
 # out.release()
 # cv2.destroyAllWindows()
+
+#------------------------------------------------
+# change video size
+import numpy as np
+
+cap = cv2.VideoCapture('test_video.mp4')
+
+fourcc = cv2.VideoWriter_fourcc(*'XVID')
+out = cv2.VideoWriter('test_video.avi', fourcc, 5, (640, 480))
+
+while True:
+    ret, frame = cap.read()
+    if ret == True:
+        b = cv2.resize(frame, (640, 480), fx=0, fy=0, interpolation=cv2.INTER_CUBIC)
+        out.write(b)
+    else:
+        break
+
+cap.release()
+out.release()
+cv2.destroyAllWindows()

@@ -83,7 +83,7 @@ if len(matches) > MIN_MATCHES:
     # project corners into frame
     dst = cv2.perspectiveTransform(pts, M)
     # connect them with lines
-    img2 = cv2.polylines(cap, [np.int32(dst)], True, 255, 3, cv2.LINE_AA)
+    img2 = cv2.polylines(cap, [np.int32(dst)], True, 255, 4, cv2.LINE_AA)
 
     imgWarp = cv2.warpPerspective(imgVideo, M, (cap.shape[1], cap.shape[0]))
     maskNew = np.zeros((cap.shape[0], cap.shape[1]), np.uint8)

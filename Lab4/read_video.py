@@ -63,7 +63,7 @@ MIN_MATCHES = 15
 detection = False
 frameCounter = 0
 
-capVid = cv2.VideoCapture('test_video.mp4')
+capVid = cv2.VideoCapture('test_veritcal.mp4')
 imgTarget = cv2.imread('target_new.jpg')
 myVid = cv2.VideoCapture('video.mp4')
 
@@ -125,8 +125,8 @@ while capVid.isOpened():
                                      [imgFeatures, imgWarp, imgAug]), 0.5)
 
 
-        # cv2.imshow('imgAug', StackedImages)
-        cv2.imshow('imgAug', imgAug)
+        cv2.imshow('imgAug', StackedImages)
+        # cv2.imshow('imgAug', imgAug)
         # cv2.imshow('imgWarp', imgWarp)
     # cv2.imshow('img2', img2)
     # cv2.imshow('imgFeatures', imgFeatures)
