@@ -37,64 +37,108 @@ def stackImages(imgArray,scale,lables=[]):
                 cv2.putText(ver,lables[d],(eachImgWidth*c+10,eachImgHeight*d+20),cv2.FONT_HERSHEY_COMPLEX,0.7,(255,0,255),2)
     return ver
 
+
+def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
+    # initialize the dimensions of the image to be resized and
+    # grab the image size
+    dim = None
+    (h, w) = image.shape[:2]
+
+    # if both the width and height are None, then return the
+    # original image
+    if width is None and height is None:
+        return image
+
+    # check to see if the width is None
+    if width is None:
+        # calculate the ratio of the height and construct the
+        # dimensions
+        r = height / float(h)
+        dim = (int(w * r), height)
+
+    # otherwise, the height is None
+    else:
+        # calculate the ratio of the width and construct the
+        # dimensions
+        r = width / float(w)
+        dim = (width, int(h * r))
+
+    # resize the image
+    resized = cv2.resize(image, dim, interpolation = inter)
+
+    # return the resized image
+    return resized
 # --------------------------------------------------------------
 
-
-def get_video_second(vidcap, perid_second):
-
-    def getFrame(sec):
-        vidcap.set(cv2.CAP_PROP_POS_MSEC, sec*1000)
-        hasFrames, image = vidcap.read()
-
-        return hasFrames
-
-    sec = 0
-    frameRate = perid_second # Change this number to 1 for each 1 second
-
-    success = getFrame(sec)
-    while success:
-        count = count + 1
-        sec = sec + frameRate
-        sec = round(sec, 2)
-        success = getFrame(sec)
+#
+# def get_video_second(vidcap, perid_second):
+#
+#     def getFrame(sec):
+#         vidcap.set(cv2.CAP_PROP_POS_MSEC, sec*1000)
+#         hasFrames, image = vidcap.read()
+#
+#         return hasFrames
+#
+#     sec = 0
+#     frameRate = perid_second # Change this number to 1 for each 1 second
+#
+#     success = getFrame(sec)
+#     while success:
+#         count = count + 1
+#         sec = sec + frameRate
+#         sec = round(sec, 2)
+#         success = getFrame(sec)
 
 # -----------------------------------------------------------------
 MIN_MATCHES = 15
+# w_new, h_new = 500, 300
+
 detection = False
 frameCounter = 0
 
-capVid = cv2.VideoCapture('test_veritcal.mp4')
-imgTarget = cv2.imread('target_new.jpg')
-myVid = cv2.VideoCapture('video.mp4')
+capVid = cv2.VideoCapture('video/test_vertical.mp4')
+# capVid = cv2.VideoCapture(0)
+imgTarget = cv2.imread('images/Target_resize_1.jpg')
+myVid = cv2.VideoCapture('video/video.mp4')
 
 success, imgVideo = myVid.read()
 hT, wT, cT = imgTarget.shape
-imgVideo = cv2.resize(imgVideo, (wT, hT))
+
+# imgVideo = image_resize(imgVideo, width=wT, height=hT)
 
 # success, imgVideo = myVid.read()
 # hT, wT, cT = imgTarget.shape
-# imgVideo = cv2.resize(imgVideo, (wT, hT))
+imgVideo = cv2.resize(imgVideo, (wT, hT))
+
 
 orb = cv2.ORB_create()
 kp1, des1 = orb.detectAndCompute(imgTarget, None)
 
+bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
+
 while capVid.isOpened():
 
     success, imgWebcam = capVid.read()
+    # imgWebcam = image_resize(imgWebcam, width=wT, height=hT)
+    imgWebcam = cv2.resize(imgWebcam, (wT, hT))
+    # imgWebcam = cv2.GaussianBlur(imgWebcam, (5, 5), 0)
+
     imgAug = imgWebcam.copy()
     kp2, des2 = orb.detectAndCompute(imgWebcam, None)
     # imgWebcam = cv2.drawKeypoints(imgWebcam, kp2, None)
 
-    # if detection == False:
-    #     myVid.set(cv2.CAP_PROP_POS_FRAMES, 0)
-    #     frameCounter = 0
-    # else:
-    #     if frameCounter == myVid.get(cv2.CAP_PROP_FRAME_COUNT):
-    #         myVid.set(cv2.CAP_PROP_POS_FRAMES, 0)
-    #         frameCounter = 0
-    #     success, imgVideo = myVid.read()
+    # frame by frame for video
+    if not detection:
+        myVid.set(cv2.CAP_PROP_POS_FRAMES, 0)
+        frameCounter = 0
+    else:
+        if frameCounter == myVid.get(cv2.CAP_PROP_FRAME_COUNT):
+            myVid.set(cv2.CAP_PROP_POS_FRAMES, 0)
+            frameCounter = 0
+        success, imgVideo = myVid.read()
+        # imgVideo = image_resize(imgVideo, width=wT, height=hT)
 
-    bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
+
     matches = bf.match(des1, des2)
     matches = sorted(matches, key=lambda x: x.distance)
 
@@ -103,19 +147,27 @@ while capVid.isOpened():
         imgFeatures = cv2.drawMatches(imgTarget, kp1, imgWebcam, kp2,
                                       matches[:MIN_MATCHES], 0, flags=2)
 
+        print(f'kp1_len:\t{len(kp1)}')
+        print(f'kp2_len:\t{len(kp2)}')
+        print(f'matches_len:\t{len(matches)}')
+
+        # print(f'kp1_len:\t{(kp1)}')
+        # print(f'kp2_len:\t{(kp2)}')
+        # print(f'matches_len:\t{(matches)}')
+
         srcPts = np.float32([kp1[m.queryIdx].pt for m in matches]).reshape(-1, 1, 2)
         dstPts = np.float32([kp2[m.queryIdx].pt for m in matches]).reshape(-1, 1, 2)
-        matrix, mask = cv2.findHomography(srcPts, dstPts, cv2.RANSAC, 5)
+        matrix, mask = cv2.findHomography(srcPts, dstPts, cv2.RANSAC, 5.0)
         # print(matrix)
 
-        pts = np.float32([[0,0],[0,hT - 1], [wT - 1, hT - 1], [wT - 1,0]]).reshape(-1,1,2)
+        pts = np.float32([[0, 0],[0, hT - 1], [wT - 1, hT - 1], [wT - 1, 0]]).reshape(-1, 1, 2)
         dst = cv2.perspectiveTransform(pts, matrix)
         img2 = cv2.polylines(imgWebcam, [np.int32(dst)], True, 255, 3, cv2.LINE_AA)
 
         imgWarp = cv2.warpPerspective(imgVideo, matrix, (imgWebcam.shape[1], imgWebcam.shape[0]))
         maskNew = np.zeros((imgWebcam.shape[0], imgWebcam.shape[1]), np.uint8)
 
-        cv2.fillPoly(maskNew, [np.int32(dst)], (255,255,255))
+        cv2.fillPoly(maskNew, [np.int32(dst)], (255, 255, 255))
 
         maskInv = cv2.bitwise_not(maskNew)
         imgAug = cv2.bitwise_and(imgAug, imgAug, mask=maskInv)
@@ -135,7 +187,7 @@ while capVid.isOpened():
     # cv2.imshow('Webcam', imgWebcam)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-    # frameCounter += 1
+    frameCounter += 1
 
 
 # cap.release()

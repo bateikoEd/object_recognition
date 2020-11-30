@@ -1,6 +1,14 @@
 import numpy as np
 import cv2
+from PIL import Image
 
+size = (640, 480)
+source_path = 'TargetImage.jpg'
+dest_path = 'images/Target_resize_1.jpg'
+
+image = Image.open(source_path)
+image.thumbnail(size, Image.ANTIALIAS)
+image.save(dest_path, "JPEG")
 
 # Define the codec and create VideoWriter object
 # ----------------------------------------
@@ -100,19 +108,19 @@ import cv2
 # change video size
 import numpy as np
 
-cap = cv2.VideoCapture('test_video.mp4')
-
-fourcc = cv2.VideoWriter_fourcc(*'XVID')
-out = cv2.VideoWriter('test_video.avi', fourcc, 5, (640, 480))
-
-while True:
-    ret, frame = cap.read()
-    if ret == True:
-        b = cv2.resize(frame, (640, 480), fx=0, fy=0, interpolation=cv2.INTER_CUBIC)
-        out.write(b)
-    else:
-        break
-
-cap.release()
-out.release()
-cv2.destroyAllWindows()
+# cap = cv2.VideoCapture('test_video.mp4')
+#
+# fourcc = cv2.VideoWriter_fourcc(*'XVID')
+# out = cv2.VideoWriter('test_video.avi', fourcc, 5, (640, 480))
+#
+# while True:
+#     ret, frame = cap.read()
+#     if ret == True:
+#         b = cv2.resize(frame, (640, 480), fx=0, fy=0, interpolation=cv2.INTER_CUBIC)
+#         out.write(b)
+#     else:
+#         break
+#
+# cap.release()
+# out.release()
+# cv2.destroyAllWindows()
