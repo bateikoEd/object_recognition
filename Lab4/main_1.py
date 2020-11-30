@@ -70,18 +70,20 @@ def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     return resized
 
 MIN_MATCHES = 20
+detection = False
+frameCounter = 0
 
 capVid = cv2.VideoCapture('video/test_vertical.mp4')
 
 model = cv2.imread('images/Target_resize_1.jpg')
 myVid = cv2.VideoCapture('video/video.mp4')
-success, imgVideo = myVid.read()
+# success, imgVideo = myVid.read()
 
 # resize imgVideo
 hT, wT, cT = model.shape
 
 #resize imgFrame
-imgVideo = image_resize(imgVideo, width=wT, height=hT)
+# imgVideo = image_resize(imgVideo, width=wT, height=hT)
 
 # detection = False
 # frameCounter = 0
@@ -93,14 +95,20 @@ bf = cv2.BFMatcher(cv2.NORM_HAMMING, crossCheck=True)
 kp_model, des_model = orb.detectAndCompute(model, None)
 
 
-while capVid.isOpened():
+while capVid.isOpened() and myVid.isOpened():
+
+
     _, cap = capVid.read()
-    cap = image_resize(cap, width=wT, height=hT)
+    cap = image_resize(cap, width=hT, height=wT)
     imgAug = cap.copy()
 
     kp_frame, des_frame = orb.detectAndCompute(cap, None)
     matches = bf.match(des_model, des_frame)
     matches = sorted(matches, key=lambda x: x.distance)
+
+    # video frames
+    _, imgVideo = myVid.read()
+    imgVideo = image_resize(imgVideo, width=wT, height=hT)
 
     if len(matches) > MIN_MATCHES:
         # detection = True
@@ -142,8 +150,10 @@ while capVid.isOpened():
         cv2.imshow('StackedImages', StackedImages)
         # cv2.imwrite('result/aug.jpg', StackedImages)
         # cv2.waitKey(0)
-    else:
-        print ("Not enough matches have been found - %d/%d" % (len(matches),
-                                                              MIN_MATCHES))
+
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
+
+    # frameCounter += 1
+
+cv2.destroyAllWindows()
