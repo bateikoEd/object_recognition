@@ -42,7 +42,7 @@ detection = False
 frameCounter = 0
 
 cap = cv2.VideoCapture(0)
-imgTarget = cv2.imread('target_new.jpg')
+imgTarget = cv2.imread('images/target_new.jpg')
 myVid = cv2.VideoCapture('video.mp4')
 
 success, imgVideo = myVid.read()

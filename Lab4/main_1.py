@@ -2,7 +2,9 @@ import cv2
 import numpy as np
 
 
-def stack_Images(imgArray, scale, lables=None):
+def stack_Images(imgArray,
+                 scale,
+                 lables=None):
 
     if lables is None:
         lables = []
@@ -45,7 +47,10 @@ def stack_Images(imgArray, scale, lables=None):
     return ver
 
 
-def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
+def image_resize(image, width=None,
+                 height=None,
+                 inter=cv2.INTER_AREA):
+
     # initialize the dimensions of the image to be resized and
     # grab the image size
     dim = None
@@ -77,11 +82,21 @@ def image_resize(image, width = None, height = None, inter = cv2.INTER_AREA):
     return resized
 
 
-def augmentation_video(path_targetImage, path_testVideo, path_videoInsert, video_format='avi',
-                       video_frequency=20, show_result=True, name_video_result='augmented_video', MIN_MATCHES=20):
+def augmentation_video(path_targetImage,
+                       path_videoInsert,
+                       path_testVideo=None,
+                       video_format='avi',
+                       video_frequency=20,
+                       show_result=True,
+                       name_video_result='augmented_video',
+                       MIN_MATCHES=20):
     detection = True
 
-    capVid = cv2.VideoCapture(path_testVideo)
+    if path_testVideo is not None:
+        capVid = cv2.VideoCapture(path_testVideo)
+    else:
+        capVid = cv2.VideoCapture(0)
+
     model = cv2.imread(path_targetImage)
     myVid = cv2.VideoCapture(path_videoInsert)
 
@@ -168,10 +183,11 @@ def augmentation_video(path_targetImage, path_testVideo, path_videoInsert, video
 
 if __name__ == '__main__':
     path_targetImage = 'images/Target_resize_1.jpg'
-    path_testVideo = 'video/test_video.mp4'
+    # path_testVideo = 'video/test_video.mp4'
     path_videoInsert = 'video/video.mp4'
     video_format = 'mp4'
-    name_video_result = 'augmented_video_second'
-    augmentation_video(path_targetImage=path_targetImage, path_testVideo=path_testVideo,
-                       path_videoInsert=path_videoInsert, video_format=video_format,
+    name_video_result = 'augmented_video_2'
+    augmentation_video(path_targetImage=path_targetImage, # path_testVideo=path_testVideo,
+                       path_videoInsert=path_videoInsert,
+                       video_format=video_format,
                        name_video_result=name_video_result)

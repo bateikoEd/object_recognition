@@ -3,7 +3,7 @@ import cv2
 from PIL import Image
 
 size = (640, 480)
-source_path = 'TargetImage.jpg'
+source_path = 'images/TargetImage.jpg'
 dest_path = 'images/Target_resize_1.jpg'
 
 image = Image.open(source_path)
