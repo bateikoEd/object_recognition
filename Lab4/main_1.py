@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+from time import time
 
 def stack_Images(imgArray,
                  scale,
@@ -91,7 +91,7 @@ def augmentation_video(path_targetImage,
                        name_video_result='augmented_video',
                        MIN_MATCHES=20):
     detection = True
-
+    time_array = []
     if path_testVideo is not None:
         capVid = cv2.VideoCapture(path_testVideo)
     else:
@@ -120,6 +120,7 @@ def augmentation_video(path_targetImage,
 
         imgAug = cap.copy()
 
+        time_start = time()
         kp_frame, des_frame = orb.detectAndCompute(cap, None)
         matches = bf.match(des_model, des_frame)
         matches = sorted(matches, key=lambda x: x.distance)
@@ -158,6 +159,11 @@ def augmentation_video(path_targetImage,
             imgAug = cv2.bitwise_and(imgAug, imgAug, mask=maskInv)
             imgAug = cv2.bitwise_or(imgWarp, imgAug)
 
+            time_end = time()
+            res = time_end - time_start
+            print(f'time:\t{res}')
+            time_array.append(res)
+
             StackedImages = stack_Images(([cap, imgVideo, model],
                                          [imgFeatures, imgWarp, imgAug]), 0.5)
 
@@ -174,9 +180,16 @@ def augmentation_video(path_targetImage,
             if show_result:
                 cv2.imshow('StackedImages', StackedImages)
 
+        else:
+            time_end = time()
+            res = time_end - time_start
+            print(f'time:\t{res}')
+            time_array.append(res)
+
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
 
+    print(f'time_mean:\t{np.array(time_array).mean()}')
     out.release()
     cv2.destroyAllWindows()
 
@@ -186,7 +199,7 @@ if __name__ == '__main__':
     # path_testVideo = 'video/test_video.mp4'
     path_videoInsert = 'video/video.mp4'
     video_format = 'mp4'
-    name_video_result = 'augmented_video_2'
+    name_video_result = 'augmented_video_3'
     augmentation_video(path_targetImage=path_targetImage, # path_testVideo=path_testVideo,
                        path_videoInsert=path_videoInsert,
                        video_format=video_format,
